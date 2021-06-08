@@ -1,0 +1,53 @@
+
+.pmal {
+    font-family: Raleway;
+    &-title {
+    }
+}
+.List2{
+  list-style-type: square;
+}
+.List3,.List4,.List5{
+  list-style-type: circle;
+}
+.List5{
+  dl{
+  margin-bottom: 0;
+}
+}
+.col-sm{
+  text-align: center;
+}
+.Pmal_image{
+margin-top: 25px;
+margin-bottom: 15px;
+align-self: center;
+border:3px solid #E7E6E6;
+border-radius: 3px;
+}
+.Short_details{
+  h2{
+  text-align: justify;
+  color: rgb(157, 113, 0);
+
+  }
+
+  p,a{
+  text-align: justify;
+  color: inherit;
+}
+p{
+  margin-left: 5px;
+}
+}
+.Head{
+  h3{
+    text-align: center;
+    color: rgb(157, 113, 0);
+
+  }
+  p{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}

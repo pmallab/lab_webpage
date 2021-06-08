@@ -1,0 +1,30 @@
+.Res_text{
+  color: rgba(157, 113, 0, 1);
+  font-size: 26px;
+  text-align: center;
+  padding-top: 55px;
+}
+.Big_box{
+  border: 4px solid #E7E6E6;
+  border-radius: 3px;
+  padding:25px;
+  margin-top:20px;
+}
+@media screen and (min-width: 992px){
+.Research_pic1,.Research_pic2{
+  border-left: 2px solid #E7E6E6;
+  border-right: 2px solid #E7E6E6;
+}
+}
+@media screen and (max-width: 992px) and (min-width:768px){
+.Research_pic1,.Research_pic2{
+  border-left: 2px solid #E7E6E6;
+  border-bottom: 2px solid #E7E6E6;
+}
+}
+@media screen and (max-width: 768px){
+  .Research_pic1,.Research_pic2{
+  border-top: 2px solid #E7E6E6;
+  border-bottom: 2px solid #E7E6E6;
+} 
+}
