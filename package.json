@@ -1,8 +1,8 @@
 {
-  "name": "PMal's Lab",
+  "name": "PMalLab",
   "version": "1.0.0",
   "private": true,
-  "description": "PMal's Lab Webpage",
+  "description": "PMal Lab Webpage",
   "keywords": [
     "gatsby"
   ],
