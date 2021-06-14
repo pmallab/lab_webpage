@@ -19,9 +19,13 @@ var plugins = [{
       plugin: require('/Users/ab/Documents/exp_copy2/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"output":"/sitemap","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
     },{
+      name: 'gatsby-plugin-google-gtag',
+      plugin: require('/Users/ab/Documents/exp_copy2/node_modules/gatsby-plugin-google-gtag/gatsby-ssr'),
+      options: {"plugins":[],"trackingIds":["G-KVSQK7X3BN"],"pluginConfig":{"head":true}},
+    },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/ab/Documents/exp_copy2/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"labw","short_name":"labw","start_url":"/","background_color":"Black","theme_color":"#a2466c","display":"standalone","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"480b5e01ab6e96e4c3e5de50ee715bfe"},
+      options: {"plugins":[],"name":"pmal lab","short_name":"pmal lab","start_url":"https://pmallab.netlify.app/","background_color":"Black","theme_color":"#a2466c","display":"standalone","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"480b5e01ab6e96e4c3e5de50ee715bfe"},
     },{
       name: 'gatsby-plugin-google-fonts',
       plugin: require('/Users/ab/Documents/exp_copy2/node_modules/gatsby-plugin-google-fonts/gatsby-ssr'),

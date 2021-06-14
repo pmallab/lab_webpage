@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "PMal's Lab",
+    title: "pmallab",
     siteUrl: `https://pmallab.netlify.app/`,
     menuLinks:[
       {
@@ -32,13 +32,28 @@ module.exports = {
   `gatsby-plugin-react-helmet`,
   `gatsby-plugin-offline`,
   `gatsby-plugin-sitemap`,
+  {
+        resolve: `gatsby-plugin-google-gtag`,
+        options: {
+          // You can add multiple tracking ids and a pageview event will be fired for all of them.
+          trackingIds: [
+            "G-KVSQK7X3BN",
+          ],
 
+          // This object is used for configuration specific to this plugin
+          pluginConfig: {
+            // Puts tracking script in the head instead of the body
+            head: true,
+        
+          },
+        },
+      },
   {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `labw`,
-        short_name: `labw`,
-        start_url: `/`,
+        name: `pmal lab`,
+        short_name: `pmal lab`,
+        start_url: `https://pmallab.netlify.app/`,
         background_color: `Black`,
         theme_color: `#a2466c`,
         display: `standalone`,
