@@ -355,7 +355,7 @@ const People = () => {
 </div>
 <div class="col-sm">
 <div className= "Phd1_data">
-<h3>Prabhu dayal Naik
+<h3>Prabhu Dayal Naik
 <p><small class="text-muted"> </small></p></h3>
 <p>Joined this group in June 2019</p>
 <p>Currently continuing Int. M.Sc.(NISER)</p>
@@ -383,7 +383,7 @@ const People = () => {
 </div>
 <div class="col-sm">
 <div className= "Phd1_data">
-<h3>Sunil Kumar Dahl
+<h3>Sunil Kumar Dhal
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in July 2019</p>
 <p>Currently continuing Int. M.Sc.(NISER)</p>
