@@ -19,6 +19,12 @@ const Publications = () => {
       <small class="text-muted"> From 2021-Present</small>
     </h2>
 
+    <li><p> Bera, S. K.; Boruah, P. J.; Parida, S. S.; Paul, A. K.; Mal, P., A Photochemical Intramolecular C–N Coupling Toward the Synthesis of Benzimidazole-Fused Phenanthridines. J. Org. Chem. 2021, 86, 9587-9602.
+  <Link className="Pub1link" to="https://pubs.acs.org/doi/full/10.1021/acs.joc.1c00871/" target="_blank"> (doi: 110.1021/acs.joc.1c00871)</Link></p></li>
+    
+    <li><p> Pramanik, M.; Mathuri, A.; Mal, P., Sulfur⋯oxygen interaction-controlled (Z)-selective anti-Markovnikov vinyl sulfides. Chem. Commun. 2021, 57, 5698-5701.
+  <Link className="Pub1link" to="https://pubs.rsc.org/en/content/articlelanding/2021/cc/d1cc01257f/" target="_blank"> (doi: 10.1039/D1CC01257F)</Link></p></li>
+    
   <li><p> Das, M.; Maity, D.; Acharya, T. K.; Sau, S.; Giri, C.; Goswami, C.; Mal, P. Lowest aqueous picomolar fluoride ions and in vivo aluminum toxicity detection by an aluminum(iii) binding chemosensor. Dalton Trans. 2021, 50, 3027-3036.
   <Link className="Pub1link" to="https://pubs.rsc.org/en/Content/ArticleLanding/2021/DT/D0DT03901B" target="_blank"> (doi: 10.1039/D0DT03901B)</Link></p></li>
 
