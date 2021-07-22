@@ -122,7 +122,7 @@ const Publications = () => {
   </p>
   </li>
 
-  <li><p> Bose, A.; Maiti, S.; Mal, P., CHAPTER 9: Soft Forces in Organic Synthesis by C–N Coupling Reactions. In Noncovalent Interactions in Catalysis, Mahmudov, K. T.; Kopylovich, M. N.; Guedes da Silva, M. F. C.; Pombeiro, A. J. L., Eds. The Royal Society of Chemistry: 2019; pp 188-208. <Link className="Pub1link" to=" "  target="_blank">(DOI: )</Link>
+  <li><p> Bose, A.; Maiti, S.; Mal, P., CHAPTER 9: Soft Forces in Organic Synthesis by C–N Coupling Reactions. In Noncovalent Interactions in Catalysis, Mahmudov, K. T.; Kopylovich, M. N.; Guedes da Silva, M. F. C.; Pombeiro, A. J. L., Eds. The Royal Society of Chemistry: 2019; pp 188-208. <Link className="Pub1link" to=" "  target="_blank">(doi: 9781788016490)</Link>
   </p>
   </li>
 
