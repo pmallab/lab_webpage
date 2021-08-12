@@ -19,8 +19,8 @@ const Publications = () => {
       <small class="text-muted"> From 2021-Present</small>
     </h2>
   
-    
-<li><p> this is a new journal <Link className="Pub1link" to=“https://www.niser.ac.in/" target=“_blank">(doi:1234)</Link></p></li>
+<li><p> Pramanik, M.; Mathuri, A.; Mal, P., Sulfur⋯oxygen interaction-controlled (Z)-selective anti-Markovnikov vinyl sulfides. Chem. Commun. 2021, 57, 5698-5701.
+  <Link className="Pub1link" to="https://pubs.rsc.org/en/content/articlelanding/2021/cc/d1cc01257f/" target="_blank"> (doi: 10.1039/D1CC01257F)</Link></p></li>
     
     <li><p> Bera, S. K.; Boruah, P. J.; Parida, S. S.; Paul, A. K.; Mal, P., A Photochemical Intramolecular C–N Coupling Toward the Synthesis of Benzimidazole-Fused Phenanthridines. J. Org. Chem. 2021, 86, 9587-9602.
   <Link className="Pub1link" to="https://pubs.acs.org/doi/full/10.1021/acs.joc.1c00871/" target="_blank"> (doi: 110.1021/acs.joc.1c00871)</Link></p></li>
