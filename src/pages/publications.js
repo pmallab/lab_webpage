@@ -18,7 +18,9 @@ const Publications = () => {
       <h2>
       <small class="text-muted"> From 2021-Present</small>
     </h2>
-
+    
+<li><p> $Journal citation here$ <Link className="Pub1link" to=“$Link of the journal article$" target=“_blank">(doi: $doi here$)</Link></p></li>
+  
     <li><p> Bera, S. K.; Boruah, P. J.; Parida, S. S.; Paul, A. K.; Mal, P., A Photochemical Intramolecular C–N Coupling Toward the Synthesis of Benzimidazole-Fused Phenanthridines. J. Org. Chem. 2021, 86, 9587-9602.
   <Link className="Pub1link" to="https://pubs.acs.org/doi/full/10.1021/acs.joc.1c00871/" target="_blank"> (doi: 110.1021/acs.joc.1c00871)</Link></p></li>
     
