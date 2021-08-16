@@ -97,8 +97,8 @@ const Index = () => {
     <div className="News">
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="300" >
-      <p> 11/08/21 Congratulations Ankita for successful completion of PhD Best of luck for future</p>
-      <p> 11/08/21 Congratulations Sudip for your latest paper in ChemComm</p>
+      <p> 11 Aug 2021: Congratulations Ankita for successful completion of PhD Best of luck for future</p>
+      <p> 11 Aug 2021: Congratulations Sudip for your latest paper in ChemComm</p>
       <p></p>
       </marquee>
       </div>
