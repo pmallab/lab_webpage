@@ -72,7 +72,7 @@ const Index = () => {
       </div>
 
 
-      <p>Congratulations Ankita for your successful completion of PhD. Best of luck for future</p>
+      <p></p>
       <div class="container">
   <div class="row">
     <div class="col-sm">
