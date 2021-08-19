@@ -306,7 +306,7 @@ const People = () => {
 <div class="col-sm">
 <div className= "Phd1_data">
 <h3>Ashis Mathuri
-<p><small class="text-muted"> (JRF)</small></p></h3>
+<p><small class="text-muted"> (SRF)</small></p></h3>
 <p>Joined this group in July-2019</p>
 <p>B.Sc. (Sidhu Kanho Birsha University), M.Sc.(Dr. C.V. Raman University)</p>
 <p>Hometown: Bankura, West Bengal</p>
