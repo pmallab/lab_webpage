@@ -96,7 +96,7 @@ const Index = () => {
     <div class="col-sm">
     <div className="News">
       <h3> News</h3>
-      <marquee width="100%" direction="up" scrolldelay="300" >
+      <marquee width="100%" direction="up" scrolldelay="600" >
       <p> 11 Aug 2021: Congratulations Ankita for successful completion of PhD Best of luck for future</p>
       <p> 11 Aug 2021: Congratulations Sudip for your latest paper in ChemComm</p>
       <p></p>
