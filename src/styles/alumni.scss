@@ -1,0 +1,24 @@
+.Alumni{
+  font-family: Raleway;
+}
+
+.Alumni_pic{
+  border: 2px solid #E7E6E6;
+  border-radius: 3px;
+  border-opacity: 0.7;
+  margin-top:25px;
+}
+.Alumni_data{
+  min-width: 200px;
+  margin-left:15px;
+  text-align:left;
+  h3{
+    color: rgb(157,113,0);
+  }
+  @media screen and (min-width: 700px){
+    margin-top: 50px;
+  }
+}
+.col{
+  max-width: 250px;
+}
