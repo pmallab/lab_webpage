@@ -206,28 +206,7 @@ const People = () => {
 
 <h1> PhD Researchers</h1>
 
-        <div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <Img className="Member_5" fixed={data.filephd_1.childImageSharp.fixed}></Img>
-    </div>
-    <div class="col-sm">
-    <div className= "Phd1_data">
-      <h3>Ankita Bal
-      <small class="text-muted"> (SRF)</small></h3>
-      <p>B.Sc-2012, M.Sc-14(West Bengal State University)</p>
-      <p> Qualified GATE-2014,2015</p>
-      <p>joined this group in Aug-2015</p>
-      <p>Hometown: Bandel, West Bengal</p>
-      <p>Research field: Synthesis of N-Heterocycles by metal free approach based on hepervalent iodine reagents.</p>
-      <p><a href="mailto: ankita.bal@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-    <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-  </svg>&nbsp;ankita.bal@niser.ac.in</a>&emsp;</p>
-      </div>
-    </div>
-  </div>
-  </div>
-  <pre></pre>
+     
 
   <div class="container">
 <div class="row">
