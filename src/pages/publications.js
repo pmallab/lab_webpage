@@ -19,8 +19,24 @@ const Publications = () => {
       <small class="text-muted"> From 2021-Present</small>
     </h2>
     
+     <li><p> A. Mathuri, M. Pramanik, A. Parida and P. Mal, Disulfide Metathesis via Sulfur…Iodine Interaction and Photoswitchability,  Org. Biomol. Chem., 2021,
+  <Link className="Pub1link" to="https://pubs.rsc.org/en/Content/ArticleLanding/2021/OB/D1OB01581H/" target="_blank"> (doi: 10.1039/D1031OB01581H.)</Link></p></li>
+    
+     <li><p>A. Bal and P. Mal, A Click Reaction Enabled by Phosphorus-Oxygen Bond for Synthesis of Triazoles,  ChemistrySelect, 2021, 6, 9317-9322,
+  <Link className="Pub1link" to="https://doi.org/10.1002/slct.202102758/" target="_blank"> (doi: 10.1002/slct.202102758.)</Link></p></li>
+    
+    
+    <li><p>S. Sau and P. Mal, 3-Nitro-coumarin synthesis via nitrative cyclization of aryl alkynoates using tert-butyl nitrite,  Chem. Commun., 2021, 57, 9228-9231.
+  <Link className="Pub1link" to="https://pubs.rsc.org/en/content/articlepdf/2021/CC/D1CC03415D?page=search/" target="_blank"> (doi: 10.1039/d1cc03415d.)</Link></p></li>
+    
+    <li><p> A. Bose and P. Mal, Iodine-Based Reagents in Photoredox-Organocatalysis,  Arkivoc, 2021, 
+  <Link className="Pub1link" to="https://www.arkat-usa.org/get-file/74302//" target="_blank"> (doi: 10.24820/ark.5550190.p5550011.5550568.)</Link></p></li>
+    
+    <li><p>S. K. Bera and P. Mal, Mechanochemical-Cascaded C–N Cross-Coupling and Halogenation Using N-Bromo- and N-Chlorosuccinimide as Bifunctional Reagents,  J. Org. Chem., 2021,
+  <Link className="Pub1link" to="https://pubs.acs.org/doi/full/10.1021/acs.joc.1c01742/" target="_blank"> (doi: 10.1021/acs.joc.1021c01742.)</Link></p></li>
+    
     <li><p> Bera, S. K.; Boruah, P. J.; Parida, S. S.; Paul, A. K.; Mal, P., A Photochemical Intramolecular C–N Coupling Toward the Synthesis of Benzimidazole-Fused Phenanthridines. J. Org. Chem. 2021, 86, 9587-9602.
-  <Link className="Pub1link" to="https://pubs.acs.org/doi/full/10.1021/acs.joc.1c00871/" target="_blank"> (doi: 110.1021/acs.joc.1c00871)</Link></p></li>
+  <Link className="Pub1link" to="https://pubs.acs.org/doi/full/10.1021/acs.joc.1c00871/" target="_blank"> (doi: 10.1021/acs.joc.1c00871)</Link></p></li>
     
     <li><p> Pramanik, M.; Mathuri, A.; Mal, P., Sulfur⋯oxygen interaction-controlled (Z)-selective anti-Markovnikov vinyl sulfides. Chem. Commun. 2021, 57, 5698-5701.
   <Link className="Pub1link" to="https://pubs.rsc.org/en/content/articlelanding/2021/cc/d1cc01257f/" target="_blank"> (doi: 10.1039/D1CC01257F)</Link></p></li>
