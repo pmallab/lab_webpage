@@ -325,7 +325,7 @@ const People = () => {
 <div className="Liner"></div>
 <pre></pre>
 
-
+<h1> M.Sc. Researchers</h1>
 
 <div class="container">
 <div class="row">
