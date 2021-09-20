@@ -30,7 +30,7 @@ const Publications = () => {
   <Link className="Pub1link" to="https://pubs.rsc.org/en/content/articlepdf/2021/CC/D1CC03415D?page=search/" target="_blank"> (doi: 10.1039/d1cc03415d.)</Link></p></li>
     
     <li><p> A. Bose and P. Mal, Iodine-Based Reagents in Photoredox-Organocatalysis,  Arkivoc, 2021, 
-  <Link className="Pub1link" to="https://www.arkat-usa.org/get-file/74302//" target="_blank"> (doi: 10.24820/ark.5550190.p5550011.5550568. )</Link></p></li>
+  <Link className="Pub1link" to="https://www.arkat-usa.org/get-file/74302//" target="_blank"> (doi: 10.24820/ ark.5550190.p5550011.5550568. )</Link></p></li>
     
     <li><p>S. K. Bera and P. Mal, Mechanochemical-Cascaded C–N Cross-Coupling and Halogenation Using N-Bromo- and N-Chlorosuccinimide as Bifunctional Reagents,  J. Org. Chem., 2021,
   <Link className="Pub1link" to="https://pubs.acs.org/doi/full/10.1021/acs.joc.1c01742/" target="_blank"> (doi: 10.1021/acs.joc.1021c01742.)</Link></p></li>
