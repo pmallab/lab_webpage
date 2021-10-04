@@ -19,6 +19,10 @@ const Publications = () => {
       <small class="text-muted"> From 2021-Present</small>
     </h2>
     
+     <li><p> A. Bal and P. Mal, A Click Reaction Enabled by Phosphorus-Oxygen Bond for Synthesis of Triazoles,  ChemistrySelect, 2021,
+  <Link className="Pub1link" to="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202102758/" target="_blank"> (doi: doi.org/10.1002/slct.202102758.)</Link></p></li>
+    
+ 
      <li><p> A. Mathuri, M. Pramanik, A. Parida and P. Mal, Disulfide Metathesis via Sulfur…Iodine Interaction and Photoswitchability,  Org. Biomol. Chem., 2021,
   <Link className="Pub1link" to="https://pubs.rsc.org/en/Content/ArticleLanding/2021/OB/D1OB01581H/" target="_blank"> (doi: 10.1039/D1031OB01581H.)</Link></p></li>
     
