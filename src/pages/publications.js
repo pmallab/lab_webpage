@@ -20,7 +20,9 @@ const Publications = () => {
     </h2>
     
     
- 
+    
+  <li><p> S. Sau, M. Pramanik, A. Bal and P. Mal, Reported Catalytic Hydrofunctionalizations that Proceed in the Absence of Catalysts: The Importance of Control Experiments, The Chemical Record, 2021,
+  <Link className="Pub1link" to="https://onlinelibrary.wiley.com/doi/epdf/10.1002/tcr.202100208/" target="_blank"> (doi:doi.org/10.1002/tcr.202100208.)</Link></p></li>
   
      <li><p> A. Mathuri, M. Pramanik, A. Parida and P. Mal, Disulfide Metathesis via Sulfur…Iodine Interaction and Photoswitchability,  Org. Biomol. Chem., 2021,
   <Link className="Pub1link" to="https://pubs.rsc.org/en/Content/ArticleLanding/2021/OB/D1OB01581H/" target="_blank"> (doi: 10.1039/D1031OB01581H.)</Link></p></li>
