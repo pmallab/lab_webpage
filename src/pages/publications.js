@@ -31,7 +31,7 @@ const Publications = () => {
   <Link className="Pub1link" to="https://pubs.rsc.org/en/Content/ArticleLanding/2021/OB/D1OB01581H/" target="_blank"> (doi: 10.1039/D1031OB01581H.)</Link></p></li>
     
      <li><p>A. Bal and P. Mal, A Click Reaction Enabled by Phosphorus-Oxygen Bond for Synthesis of Triazoles,  ChemistrySelect, 2021, 6, 9317-9322,
-  <Link className="Pub1link" to="https://doi.org/10.1002/slct.202102758/" target="_blank"> (doi: 10.1002/slct.202102758.)</Link></p></li>
+  <Link className="Pub1link" to="https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/slct.202102758/" target="_blank"> (doi:doi.org/10.1002/slct.202102758.)</Link></p></li>
     
     
     <li><p>S. Sau and P. Mal, 3-Nitro-coumarin synthesis via nitrative cyclization of aryl alkynoates using tert-butyl nitrite,  Chem. Commun., 2021, 57, 9228-9231.
