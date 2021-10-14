@@ -19,7 +19,9 @@ const Publications = () => {
       <small class="text-muted"> From 2021-Present</small>
     </h2>
     
-    
+  <li><p> Bose, A.; Mal, P. Weak Interactions in Carbon-Hetero Atom Bond Forming Reactions,  Prayogik Rasayan, 2021,
+  <Link className="Pub1link" to="https://doi.org/10.53023/p.rasayan-20210930/" target="_blank"> (doi:doi.org/10.53023/p.rasayan-20210930.)</Link></p></li>
+ 
     
   <li><p> S. Sau, M. Pramanik, A. Bal and P. Mal, Reported Catalytic Hydrofunctionalizations that Proceed in the Absence of Catalysts: The Importance of Control Experiments, The Chemical Record, 2021,
   <Link className="Pub1link" to="https://onlinelibrary.wiley.com/doi/epdf/10.1002/tcr.202100208/" target="_blank"> (doi:doi.org/10.1002/tcr.202100208.)</Link></p></li>
