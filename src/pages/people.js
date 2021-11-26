@@ -312,7 +312,7 @@ const People = () => {
 <p> Qualified GATE-2019</p>
 <p>Joined this group in Jan-2021</p>
 <p>Homeplace: Haldia, West Bengal</p>
-<p>Research field: Iodine Based Reagents  For Construction Of Small Organic Molecules</p>
+<p>Research field: Photocatalysis</p>
 <p><a href="mailto: tarunkumar.dinda@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
 <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
 </svg>&nbsp;tarunkumar.dinda@niser.ac.in</a></p>
@@ -344,6 +344,31 @@ const People = () => {
 </div>
 </div>
 <pre></pre>
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm">
+<Img className="Member_5" fixed={data.filephd_7.childImageSharp.fixed}></Img>
+</div>
+<div class="col-sm">
+<div className= "Phd1_data">
+<h3>Buddhadeb Pal
+<small class="text-muted"> (JRF)</small></h3>
+<p>B.Sc-2018 (Vidyasagar University) ,M.Sc.-2020 (Vidyasagar University)</p>
+<p> Qualified GATE 2021</p>
+<p>Joined this group in July-2021</p>
+<p>Homeplace: Haldia, West Bengal</p>
+<p>Research field: Currently through course work</p>
+<p><a href="mailto: buddhadeb.pal@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg>&nbsp;buddhadeb.pal@niser.ac.in</a></p>
+</div>
+</div>
+</div>
+</div>
+<pre></pre>
+
 
 
 <div className="Liner"></div>
