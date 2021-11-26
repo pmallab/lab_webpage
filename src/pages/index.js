@@ -98,6 +98,9 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
         
+        
+      <p> 26 Nov 2021: Anupam-coridially welcome to the Group </p> 
+      <p> 16 Nov 2021: Buddhadeb and Rosalin-Warmly welcome to the Group </p>
       <p> 11 Oct 2021: Many many congratulations Anima for your latest Award Lecture Presentations in  Prayogik Rasayan </p>
       <p> 07 Oct 2021: Many many congratulations Sudip for your latest review in The Chemical Record </p>
       <p> 25 Sept 2021: Many many congratulations Milan for your latest paper in Org. Lett.</p>  
@@ -105,9 +108,7 @@ const Index = () => {
       <p> 15 Sept 2021: Congratulations Ankita for your latest paper in ChemistrySelect....</p>
       <p> 12 Sept 2021: Congratulations Anima for your latest paper in ARKIVOC.Keep going on...</p>
       <p> 10 Sept 2021: Congratulations Ashis for your latest paper in OBC. Go ahead... </p>
-      <p> 23 Aug 2021: Many congratulations Shyamal for your latest paper in JOC. Keep it up. </p>
-      <p> 11 Aug 2021: Congratulations Ankita for successful completion of PhD Best of luck for future</p>
-      <p> 11 Aug 2021: Congratulations Sudip for your latest paper in ChemComm</p>
+      
       <p></p>
       </marquee>
       </div>
