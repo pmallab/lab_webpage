@@ -99,7 +99,7 @@ const Index = () => {
       <marquee width="100%" direction="up" scrolldelay="200" >
         
         
-      <p> 26 Nov 2021: Anupam-coridially welcome to the Group </p> 
+      <p> 26 Nov 2021: Anupam-cordially welcome to the Group </p> 
       <p> 16 Nov 2021: Buddhadeb and Rosalin-Warmly welcome to the Group </p>
       <p> 11 Oct 2021: Many many congratulations Anima for your latest Award Lecture Presentations in  Prayogik Rasayan </p>
       <p> 07 Oct 2021: Many many congratulations Sudip for your latest review in The Chemical Record </p>
