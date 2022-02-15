@@ -19,7 +19,7 @@ const Publications = () => {
     </h2>
     
   <li><p> A. Bal, T. K. Dinda and P. Mal. A Mechanochemical Aliphatic Iodination (and Bromination) by Cascaded Cyclization,   Asian J. Org. Chem., 2022,
-  <Link className="Pub1link" to=": https://doi.10.1002/ajoc.202200046/" target="_blank"> (doi:doi.10.1002/ajoc.202200046)</Link></p></li>
+  <Link className="Pub1link" to=": https://doi.10.1002/ajoc.202200046/" target="_blank"> (10.1002/ajoc.202200046)</Link></p></li>
     
       <h2>
       <small class="text-muted"> In 2021</small>
