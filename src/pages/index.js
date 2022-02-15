@@ -99,15 +99,9 @@ const Index = () => {
       <marquee width="100%" direction="up" scrolldelay="200" >
         
         
-      <p> 26 Nov 2021: Anupam-cordially welcome to the Group </p> 
-      <p> 16 Nov 2021: Buddhadeb and Rosalin-Warmly welcome to the Group </p>
-      <p> 11 Oct 2021: Many many congratulations Anima for your latest Award Lecture Presentations in  Prayogik Rasayan </p>
-      <p> 07 Oct 2021: Many many congratulations Sudip for your latest review in The Chemical Record </p>
-      <p> 25 Sept 2021: Many many congratulations Milan for your latest paper in Org. Lett.</p>  
-      <p> 16 Sept 2021: Good bye Monojit...Best of luck for your career....</p>
-      <p> 15 Sept 2021: Congratulations Ankita for your latest paper in ChemistrySelect....</p>
-      <p> 12 Sept 2021: Congratulations Anima for your latest paper in ARKIVOC.Keep going on...</p>
-      <p> 10 Sept 2021: Congratulations Ashis for your latest paper in OBC. Go ahead... </p>
+      <p> 14 Feb 2022: Congratulations Ankita for your latest paper in AJOC. Go ahead... </p> 
+      <p> 27 Jan 2022: Congratulations Milan for successful defence of PhD viva-voce. Best of luck for future. </p>
+      
       
       <p></p>
       </marquee>
