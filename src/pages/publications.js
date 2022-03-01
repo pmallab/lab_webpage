@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2022</small>
     </h2>
     
+  <li><p> M. Pramanik, A. Mathuri and P. Mal, tBuOLi Promoted Terminal Alkynes Functionalizations by Aliphatic Thiols and Alcohols,  Org. Biomol. Chem., 2022,
+  <Link className="Pub1link" to=":https://pubs.rsc.org/en/Content/ArticleLanding/2022/OB/D2OB00079B" target="_blank"> (doi:10.1039/D1032OB00079B)</Link></p></li>
+    
   <li><p> A. Bal, T. K. Dinda and P. Mal. A Mechanochemical Aliphatic Iodination (and Bromination) by Cascaded Cyclization,   Asian J. Org. Chem., 2022,
   <Link className="Pub1link" to="https://doi.org/10.1002/ajoc.202200046" target="_blank"> (doi:doi.org/10.1002/ajoc.202200046.)</Link></p></li>
     
