@@ -12,6 +12,7 @@ const Footer = () => {
       <Link className="NISERlink" to="https://www.niser.ac.in" target="_blank">National Institute of Science Education and Research</Link></p>
     </div>
     <p className="Web_creater">website created & designed by Abhishek Raj</p>
+    <p className="Web_monitor">website maintained by Tarun Kumar Dinda</p>
     </footer>
   )
 }
