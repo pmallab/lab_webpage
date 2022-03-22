@@ -8,13 +8,6 @@ import {Carousel} from "react-bootstrap";
 const People = () => {
   const data = useStaticQuery(graphql`
           query {
-            file_background: file(relativePath: {eq: "images/group2.jpg"}) {
-                  childImageSharp {
-                    fluid(maxWidth: 10000) {
-                      ...GatsbyImageSharpFluid_withWebp
-                    }
-                  }
-              }
               filepostdoc_1: file(relativePath: {eq: "images/members/postdoc_1.jpg"}) {
                     childImageSharp {
                       fixed(width: 280) {
@@ -176,7 +169,7 @@ const People = () => {
   return(
     <Layout>
     <div className="people">
-      <p><Img className="GroupPic1" fluid={data.file_background.childImageSharp.fluid}></Img></p>
+
 
         <h1>Post-Doc Researcher</h1>
 
@@ -206,7 +199,7 @@ const People = () => {
 
 <h1> PhD Researchers</h1>
 
-     
+
 
   <div class="container">
 <div class="row">
@@ -478,7 +471,6 @@ const People = () => {
 <p>Joind this group in Sept-2021</p>
 <p>Currently continuing 4th year Int. M.Sc.(NISER)</p>
 <p>Hometown: Rohtak,Haryana</p>
-<p>Qualified: NEST 2018</p>
 <p>Research field: C-H functionalization </p>
 <p><a href="mailto: uday.singh@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
 <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>

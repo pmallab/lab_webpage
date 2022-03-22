@@ -7,6 +7,13 @@ import Img from "gatsby-image"
 const Index = () => {
   const data = useStaticQuery(graphql`
           query {
+            file_background: file(relativePath: {eq: "images/group2.jpg"}) {
+                  childImageSharp {
+                    fluid(maxWidth: 10000) {
+                      ...GatsbyImageSharpFluid_withWebp
+                    }
+                  }
+              }
               file11: file(relativePath: {eq: "images/photochem_pic.jpg"}) {
                   childImageSharp {
                     fluid(maxWidth: 300) {
@@ -55,41 +62,8 @@ const Index = () => {
   return(
     <Layout>
       <div clasName="index">
-      <div class="container">
-      <h4 className ="Index_headings">Weak Interactions in:</h4>
-      <div class="row">
-      <div class="col-sm">
-      <p className="Pic_15">
-      <h5 className ="Index_headings_small">C-S coupling</h5>
-      <Img className="Picture_15" fluid={data.file15.childImageSharp.fluid}></Img></p>
-      </div>
-      <div class="col-sm">
-      <p className="Pic_16">
-      <h5 className ="Index_headings_small">C-N coupling</h5>
-      <Img className="Picture_16" fluid={data.file16.childImageSharp.fluid}></Img></p>
-      </div>
-      </div>
-      </div>
-
-
-      <p></p>
-      <div class="container">
-  <div class="row">
-    <div class="col-sm">
-    <p className="Pic_12">
-    <h4 className ="Index_headings">Mechano-Chemistry</h4>
-    <Img className="Picture_12" fluid={data.file12.childImageSharp.fluid}></Img></p>
-
-</div>
-
-    <div class="col-sm">
-    <p className="Pic_11">
-    <h4 className ="Index_headings">Photo-Chemistry</h4>
-    <Img className="Picture_11" fluid={data.file11.childImageSharp.fluid}></Img></p>
-      </div>
-  </div>
-</div>
-
+<h1 className= "Index_Title"> P Mal's Lab @ NISER</h1>
+  <p><Img className="GroupPic1" fluid={data.file_background.childImageSharp.fluid}></Img></p>
 
 <div class="container-sm">
   <div class="row">
@@ -97,12 +71,12 @@ const Index = () => {
     <div className="News">
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="250" >
-        
+
       <p> 01 Mar 2022: Heartiest congratulations Milan and Ashis for your latest paper in OBC.</p>
-      <p> 14 Feb 2022: Congratulations Ankita for your latest paper in AJOC. Go ahead... </p> 
+      <p> 14 Feb 2022: Congratulations Ankita for your latest paper in AJOC. Go ahead... </p>
       <p> 27 Jan 2022: Congratulations Milan for successful defence of PhD viva-voce. Best of luck for future. </p>
-      
-      
+
+
       <p></p>
       </marquee>
       </div>
