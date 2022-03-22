@@ -6,6 +6,17 @@ html, body {
     font-family: Raleway;
 }
 
+.GroupPic1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width :100%;
+  height: 92.5vh;
+  background-attachment: fixed;
+
+}
+
 .index {
    display: flex;
    flex-direction: column;
@@ -16,65 +27,13 @@ html, body {
        text-align: center;
    }
 }
-.Pic_16{
+.Index_Title{
   text-align: center;
-}
-.Pic_5{
-  text-align: center;
-}
-
-@media screen and (min-width: 992px){
-
-  .Pic_16,.Pic_11{
-    width:297.5px;
-    text-align: left;
-    .Picture_11{
-      border-left: 2.5px solid #E7E6E6;
-      padding-left:4.2px;
-
-    }
-
-  }
-  .Picture_16,.Picture_11{
-    border-right: 2.5px solid #E7E6E6;
-    border-top: 2.5px solid #E7E6E6;
-    border-bottom: 2.5px solid #E7E6E6;
-    border-left: 2.5px solid #E7E6E6;
-  }
-  .Picture_15,.Picture_12{
-    max-width: 466px;
-    border-left: 2.5px solid #E7E6E6;
-    border-top: 2.5px solid #E7E6E6;
-    border-bottom: 2.5px solid #E7E6E6;
-    border-right: 2.5px solid #E7E6E6;
-
-  }
-  .Pic_15,.Pic_12{
-    text-align: right;
-    h4{
-      text-align: center;
-      color:rgb(157,113,0);
-    }
-  }
-}
-.col-sm,{
-  padding: 0;
-}
-@media screen and (max-width: 992px){
-  .Pic_16,.Pic_11,.Pic_12,.Pic_15{
-    width:378px;
-    margin-left:auto;
-    margin-right: auto;
-    border:2.5px solid #E7E6E6;
-    h4{
-      text-align: center;
-      color:rgb(157,113,0);
-    }
-  }
+  color:rgb(157,113,0);
 }
 
 .News{
-    max-height: 50vh;
+    max-height: 60vh;
   h3{
     color:rgb(157,113,0);
     font-weight: bold;
