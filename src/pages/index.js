@@ -71,10 +71,11 @@ const Index = () => {
     <div className="News">
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="250" >
-
+        
+      <p> 20 April 2022: Many many congratulations to Sudip for his latest paper in Eur. J. Org. Chem.</p>
       <p> 01 Mar 2022: Heartiest congratulations Milan and Ashis for your latest paper in OBC.</p>
       <p> 14 Feb 2022: Congratulations Ankita for your latest paper in AJOC. Go ahead... </p>
-      <p> 27 Jan 2022: Congratulations Milan for successful defence of PhD viva-voce. Best of luck for future. </p>
+      
 
 
       <p></p>
