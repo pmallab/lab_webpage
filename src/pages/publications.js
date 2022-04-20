@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2022</small>
     </h2>
     
+  <li><p> S. Sau and P. Mal, C-H Hydroxylation of Quinoxalin-2(1H)-ones through ipso-Substitution Using tert-Butyl Nitrite,  Eur. J. Org. Chem., 2022,
+  <Link className="Pub1link" to=" https://chemistry-europe.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fejoc.202200425" target="_blank"> (doi.org/10.1002/ejoc.202200425)</Link></p></li>
+    
   <li><p> M. Pramanik, A. Mathuri and P. Mal, tBuOLi Promoted Terminal Alkynes Functionalizations by Aliphatic Thiols and Alcohols,  Org. Biomol. Chem., 2022,
   <Link className="Pub1link" to="https://pubs.rsc.org/en/Content/ArticleLanding/2022/OB/D2OB00079B" target="_blank"> (doi:10.1039/D1032OB00079B)</Link></p></li>
     
