@@ -18,6 +18,10 @@ const Publications = () => {
       <small class="text-muted"> In 2022</small>
     </h2>
     
+    
+  <li><p> S.K. Bera and P. Mal, Regiodivergent C−N Coupling of Quinazolinones Controlled by the Dipole Moments of Tautomers,  Org. Lett, 2022,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.orglett.2c00847" target="_blank"> (doi.org/10.1021/acs.orglett.2c00847)</Link></p></li>
+    
   <li><p> S. Sau and P. Mal, C-H Hydroxylation of Quinoxalin-2(1H)-ones through ipso-Substitution Using tert-Butyl Nitrite,  Eur. J. Org. Chem., 2022,
   <Link className="Pub1link" to="https://doi.org/10.1002/ejoc.202200425" target="_blank"> (doi.org/10.1002/ejoc.202200425)</Link></p></li>
     
