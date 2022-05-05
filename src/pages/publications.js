@@ -18,7 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2022</small>
     </h2>
     
-    
+  <li><p> Mathuri, A.; Pramanik, M.; Mal, P. 3-Arylsulfonylquinolines from N-Propargylamines Via Cascaded Oxidative Sulfonylation Using DABSO. J. Org. Chem. 2022,
+  <Link className="Pub1link" to="https://pubs.acs.org/doi/10.1021/acs.joc.2c00499" target="_blank"> (doi/10.1021/acs.joc.2c00499)</Link></p></li>
+  
   <li><p> S. K. Bera and P. Mal, Regiodivergent C−N Coupling of Quinazolinones Controlled by the Dipole Moments of Tautomers,  Org. Lett, 2022,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.orglett.2c00847" target="_blank"> (doi.org/10.1021/acs.orglett.2c00847)</Link></p></li>
     
