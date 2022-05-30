@@ -180,15 +180,15 @@ const People = () => {
             </div>
             <div class="col-sm">
             <div className= "Phd1_data">
-              <h3>Dr. Monojit Das
+              <h3>Dr. Anupam Manna
               <small class="text-muted"> (RA)</small></h3>
               <p></p>
-              <p>PhD-2019 (CSIR-IMMT, Bhubaneswar)</p>
-              <p>Homeplace: Krishnanagar, West Bengal</p>
-                <p> Research field: Organic synthesis and sensor applications</p>
-              <p><a href="mailto: monojit.ch@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+              <p>PhD-2020 (CSIR-IMMT, Bhubaneswar)</p>
+              <p>Homeplace: Debra, West Bengal</p>
+                <p> Research field: Synthesis of fluorescence materials and their applications</p>
+              <p><a href="mailto: anupammanna@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
             <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-          </svg>&nbsp;monojit.ch@niser.ac.in</a>&emsp;</p>
+          </svg>&nbsp;anupammanna@niser.ac.in</a>&emsp;</p>
               </div>
             </div>
           </div>
@@ -499,6 +499,7 @@ const People = () => {
 <h3>Swagatalaxmi Datta
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in May 2022</p>
+<p>National level exam qualified: JEE Main<p>
 <p>Currently continuing B.Tech.(NIT Durgapur)</p>
 <p>Hometown: Bankura, West Bengal</p>
 <p>Research field: Material Chemistry</p>
