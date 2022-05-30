@@ -72,7 +72,7 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="250" >
         
-        
+      <p> 30 May 2022: Warm welcome to the summer interns...Kushal, Swagatalaxmi, Tathagata, Soumyashree, Shreya... </p> 
       <p> 05 May 2022: Congratulations Ashis and Milan for your latest paper in JOC. Go ahead... </p> 
       <p> 30 April 2022: Bye bye Milan. Best of luck for future. Hoping to see you soon.</p>
       <p> 21 April 2022: Congratulation Shyamal for your latest paper in OL. Keep going ahead.</p>
