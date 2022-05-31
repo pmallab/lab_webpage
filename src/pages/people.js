@@ -180,7 +180,7 @@ const People = () => {
 </div>
 <div class="col-sm">
 <div className= "Phd1_data">
-<h3>Dr. Anupam Manna</h>
+<h3>Dr. Anupam Manna
 <small class="text-muted"> (RA)</small></h3>
 <p>Ph.D.-2020 (CSIR-IMMT, Bhubaneswar)</p>
 <p>Joined this group in 2021</p>
