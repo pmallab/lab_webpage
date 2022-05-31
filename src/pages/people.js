@@ -176,11 +176,11 @@ const People = () => {
    <div class="container">
 <div class="row">
 <div class="col-sm">
-//<Img className="Member_5" fixed={data.filemsc_1.childImageSharp.fixed}></Img>
+//<Img className="Member_5" fixed={data.filepostdoc_1.childImageSharp.fixed}></Img>
 </div>
 <div class="col-sm">
 <div className= "Phd1_data">
-<h3>Dr. Anupam Manna
+<h3>Dr. Anupam Manna</h>
 <small class="text-muted"> (RA)</small></h3>
 <p>Ph.D.-2020 (CSIR-IMMT, Bhubaneswar)</p>
 <p>Joined this group in 2021</p>
