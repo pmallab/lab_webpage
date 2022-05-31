@@ -476,6 +476,7 @@ const People = () => {
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in May 2022</p>
 <p>Currently continuing B.Tech.(NIT Durgapur)</p>
+<p>Qualified JEE Main</p>
 <p>Hometown: Bankura, West Bengal</p>
 <p>Research field: Material Chemistry</p>
 <p><a href="mailto: dattaswagatalaxmi@gmail.com"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
