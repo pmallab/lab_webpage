@@ -497,10 +497,8 @@ const People = () => {
 <h3>Kushal Baloda
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in May 2022</p>
-<p>Currently continuing Int. MSc(NISER), 7th semester
-  
-   National level exam qualified: JEE Main
-</p>
+<p>Currently continuing Int. MSc(NISER), 7th semester</p>
+<p> Qualified JEE Main, 2019</p>
 <p>Hometown: Jaipur, Rajasthan</p>
 <p>Research field: Material Chemistry</p>
 <p><a href="mailto: kushal.baloda@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
