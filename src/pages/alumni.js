@@ -138,7 +138,7 @@ const Alumni = () => {
       <h3>Dr. Ankita Bal</h3>
       <p>completed P.hd in 2021</p>
       <p>Thesis title: </p>
-      <p>Present Affliation :  </p>
+      <p>Present Affliation : Postdoc fellow at IISER, Bhopal</p>
       <p></p>
     </div>
     </div>
@@ -153,9 +153,9 @@ const Alumni = () => {
 <div class="col">
 <div className="Alumni_data">
   <h3>Keshab Agarwal</h3>
-  <p>completed M.Sc. in </p>
+  <p>completed M.Sc. in 2021</p>
   <p>Thesis title: </p>
-  <p>Present Affliation :  </p>
+  <p>Present Affliation : Not available  </p>
   <p></p>
 </div>
 </div>
@@ -170,9 +170,9 @@ const Alumni = () => {
 <div class="col">
 <div className="Alumni_data">
   <h3>Prabhu Dayal Naik</h3>
-  <p>completed P.hd in </p>
+  <p>completed MSc in 2021 </p>
   <p>Thesis title: </p>
-  <p>Present Affliation : </p>
+  <p>Present Affliation : Not available </p>
   <p></p>
 </div>
 </div>
@@ -189,7 +189,7 @@ const Alumni = () => {
   <h3>Sunil Kumar Swain</h3>
   <p>completed M.Sc in 2021</p>
   <p>Thesis title: </p>
-  <p>Present Affliation :  </p>
+  <p>Present Affliation : Not available  </p>
   <p></p>
 </div>
 </div>
