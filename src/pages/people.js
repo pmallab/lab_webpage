@@ -8,7 +8,7 @@ import {Carousel} from "react-bootstrap";
 const People = () => {
   const data = useStaticQuery(graphql`
           query {
-              filepostdoc_1: file(relativePath: {eq: "images/members/postdoc_1.jpg"}) {
+              filepostdoc_1: file(relativePath: {eq: "images/members/postdoc_2.jpg"}) {
                     childImageSharp {
                       fixed(width: 280) {
                         ...GatsbyImageSharpFixed
