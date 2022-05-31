@@ -77,7 +77,7 @@ const Index = () => {
       <p> 30 April 2022: Bye bye Milan. Best of luck for future. Hoping to see you soon.</p>
       <p> 21 April 2022: Congratulation Shyamal for your latest paper in OL. Keep going ahead.</p>
       <p> 20 April 2022: Many many congratulations to Sudip for his latest paper in Eur. J. Org. Chem.</p>
-      <p> 01 Mar 2022: Heartiest congratulations Milan and Ashis for your latest paper in OBC.</p>
+      
       
       
 
