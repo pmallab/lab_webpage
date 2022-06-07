@@ -155,7 +155,7 @@ const People = () => {
                                                 }
                                             }
                                         }
-                                      filemsc_10: file(relativePath: {eq: "images/members/msc_10.jpg"}) {
+                                      filemsc_10: file(relativePath: {eq: "images/members/msc_10.JPG"}) {
                                                 childImageSharp {
                                                   fixed(width: 280) {
                                                     ...GatsbyImageSharpFixed
