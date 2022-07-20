@@ -75,8 +75,7 @@ const Index = () => {
       <p> 06 June 2022: Many many congratulations to Shyamal and Rosalin for their latest paper in Beilstein J. Org. Chem.</p> 
       <p> 30 May 2022: Warm welcome to the summer interns..Kushal, Swagatalaxmi, Tathagata, Soumyashree, Shreya... </p> 
       <p> 05 May 2022: Congratulations Ashis and Milan for your latest paper in JOC. Go ahead... </p> 
-      <p> 30 April 2022: Bye bye Milan. Best of luck for future. Hoping to see you soon.</p>
-      <p> 21 April 2022: Congratulation Shyamal for your latest paper in OL. Keep going ahead.</p>
+     
       
       
       
