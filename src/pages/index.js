@@ -71,10 +71,10 @@ const Index = () => {
     <div className="News">
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="250" >
-        
+       
+      <p> 06 June 2022: Warmly welcoming to our new PhD fellows Mr. Pravat and Ms. Sathi in the group.</p> 
+      <p> 06 June 2022: Heartiest welcome to Mr. Ankit, Mr. Supratim, Mr. Kushal and Ms. Soumyashree. Hoping to see an enrich Msc thesis.</p> 
       <p> 06 June 2022: Many many congratulations to Shyamal and Rosalin for their latest paper in Beilstein J. Org. Chem.</p> 
-      <p> 30 May 2022: Warm welcome to the summer interns..Kushal, Swagatalaxmi, Tathagata, Soumyashree, Shreya... </p> 
-      <p> 05 May 2022: Congratulations Ashis and Milan for your latest paper in JOC. Go ahead... </p> 
      
       
       
