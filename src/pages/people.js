@@ -346,95 +346,6 @@ const People = () => {
 
 <h1> M.Sc. Researchers</h1>
 
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_4.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Chandan Chittapriya Sahu
-<p><small class="text-muted"></small></p></h3>
-<p>Joined this group in Sept 2020</p>
-<p>Currently continuing Int. M.Sc.(NISER)</p>
-<p>Hometown: Deogarh, Odisha</p>
-<p>Research field: Synthetic Chemistry</p>
-<p><a href="mailto: chandan.sahu@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;chandan.sahu@niser.ac.in</a>&emsp;</p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_5.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Himangshu Dutta
-<p><small class="text-muted"></small></p></h3>
-<p>Joined this group in Sept 2020</p>
-<p>Currently continuing Int. M.Sc.(NISER)</p>
-<p>Hometown: Bardhaman, West Bengal</p>
-<p>Research field: C-S bond formation using photoredox catalysis</p>
-<p><a href="mailto: himangshu.dutta@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;himangshu.dutta@niser.ac.in</a></p>
-
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_6.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Azmeera Vritik Kumar
-<p><small class="text-muted"></small></p></h3>
-<p>Joined this group on Sept-2020</p>
-<p>Currently continuing Int. M.Sc.(NISER)</p>
-<p>Hometown: Hydrabad, Telangana</p>
-<p>Research field: Chemistry</p>
-<p><a href="mailto: azmeera.kumar@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;azmeera.kumar@niser.ac.in</a></p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_7.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Abhishek Raj
-<p><small class="text-muted"></small></p></h3>
-<p>Joind this group in Sept-2020</p>
-<p>Currently continuing Int. M.Sc.(NISER)</p>
-<p>Hometown: Nalanda, Bihar</p>
-<p>Research field: C-H functionalization to form new C-C, C-N and C-S bonds.</p>
-<p><a href="mailto: abhishek.raj@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;abhishek.raj@niser.ac.in</a></p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
 
 <div class="container">
 <div class="row">
@@ -457,13 +368,6 @@ const People = () => {
 </div>
 </div>
 <pre></pre>
-
-
-
-<div className="Liner"></div>
-<pre></pre>
-
-<h1> Summer Interns</h1>
 
 
 <div class="container">
@@ -493,30 +397,6 @@ const People = () => {
 <div class="container">
 <div class="row">
 <div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_8.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Shreya Das
-<p><small class="text-muted"></small></p></h3>
-<p>Joined this group in May 2022</p>
-<p>Currently continuing Int. MSc(NISER), 5th semester</p>
-<p> Qualified NEST Exam</p>
-<p>Hometown: West Bengal</p>
-<p>Research field: Synthetic organic chemistry</p>
-<p><a href="mailto: shreya.das@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;shreya.das@niser.ac.in</a>&emsp;</p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
 <Img className="Member_5" fixed={data.filemsc_9.childImageSharp.fixed}></Img>
 </div>
 <div class="col-sm">
@@ -536,6 +416,15 @@ const People = () => {
 </div>
 </div>
 <pre></pre>
+
+
+
+
+
+<div className="Liner"></div>
+<pre></pre>
+
+<h1>Interns</h1>
 
 
 <div class="container">
