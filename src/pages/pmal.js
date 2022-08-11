@@ -125,7 +125,23 @@ const Pmal = () => {
 <div className="Head">
 <h3>Teachings</h3>
 <ul class="List5">
-
+  
+  
+<li>
+<dl class="row">
+<dt class="col-sm-1">2022</dt>
+<dd class="col-sm-9">
+  <dl class="row">
+    <dt class="col-sm-2">August</dt>
+    <dd class="col-sm-8">C203 Reaction Mechanism in Organic Chemistry</dd>
+    </dl>
+    <dl class="row">
+      <dt class="col-sm-2"></dt>
+      <dd class="col-sm-8"></dd>
+      </dl>
+    </dd>
+</dl></li>
+   
 <li>
 <dl class="row">
 <dt class="col-sm-1">2020</dt>
