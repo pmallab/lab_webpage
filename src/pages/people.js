@@ -340,6 +340,55 @@ const People = () => {
 <pre></pre>
 
 
+<div class="container">
+<div class="row">
+<div class="col-sm">
+<Img className="Member_5" fixed={data.filephd_2.childImageSharp.fixed}></Img>
+</div>
+<div class="col-sm">
+<div className= "Phd1_data">
+<h3>Pravat Nayek
+<small class="text-muted"> (JRF)</small></h3>
+<p>B.Sc-2019 (Midnapore college autonomous) ,M.Sc.-2021 (IIEST, Shibpur)</p>
+<p> Qualified Gate 2021 / CSIR Net 2021 june( UGC fellowship)</p>
+<p>Joined this group in August-2022</p>
+<p>Homeplace: Moyna, West Bengal</p>
+<p>Research field: Through course work</p>
+<p><a href="mailto: pravat.nayek@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg>&nbsp;pravat.nayek@niser.ac.in</a></p>
+</div>
+</div>
+</div>
+</div>
+<pre></pre>
+
+
+
+<div class="container">
+<div class="row">
+<div class="col-sm">
+<Img className="Member_5" fixed={data.filephd_8.childImageSharp.fixed}></Img>
+</div>
+<div class="col-sm">
+<div className= "Phd1_data">
+<h3>Sathi Sahoo
+<small class="text-muted"> (JRF)</small></h3>
+<p>B.Sc-2019 (Midnapore college autonomous) ,M.Sc.-2021 (Vidyasagar University, WB)</p>
+<p> Qualified GATE 2021</p>
+<p>Joined this group in August-2022</p>
+<p>Homeplace: Egra, West Bengal</p>
+<p>Research field: Through course work</p>
+<p><a href="mailto: sathi.sahoo@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg>&nbsp;sathi.sahoo@niser.ac.in</a></p>
+</div>
+</div>
+</div>
+</div>
+<pre></pre>
+
+
 
 <div className="Liner"></div>
 <pre></pre>
