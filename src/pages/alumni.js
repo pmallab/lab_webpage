@@ -78,35 +78,35 @@ const Alumni = () => {
                         }
                       }
                   }
-            filealumni6: file(relativePath: {eq: "images/alimni/alumni_1.jpg"}) {
+            filealumni6: file(relativePath: {eq: "images/alimni/alumni_6.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
                     }
                   }
               }
-                filealumni5: file(relativePath: {eq: "images/alimni/alumni_1.jpg"}) {
+                filealumni5: file(relativePath: {eq: "images/alimni/alumni_5.jpg"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
                         }
                       }
                   }
-            filealumni4: file(relativePath: {eq: "images/alumni/alumni_1.jpg"}) {
+            filealumni4: file(relativePath: {eq: "images/alumni/alumni_4.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
                     }
                   }
               }
-                filealumni3: file(relativePath: {eq: "images/alumni/alumni1.jpg"}) {
+                filealumni3: file(relativePath: {eq: "images/alumni/alumni_3.jpg"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
                         }
                       }
                   }
-            filealumni2: file(relativePath: {eq: "images/alumni/alumni_1.jpg"}) {
+            filealumni2: file(relativePath: {eq: "images/alumni/alumni_2.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
