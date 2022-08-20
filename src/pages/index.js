@@ -74,7 +74,7 @@ const Index = () => {
        
       <p> 08 Aug 2022: Warmly welcoming to our new PhD fellows Mr. Pravat and Ms. Sathi in the group.</p> 
       <p> 08 Aug 2022: Heartiest welcome to Mr. Ankit, Mr. Supratim, Mr. Kushal and Ms. Soumyashree. Hoping to see an enrich Msc thesis.</p> 
-      <p> 06 June 2022: Many many congratulations to Shyamal and Rosalin for their latest paper in Beilstein J. Org. Chem.</p> 
+      
      
       
       
