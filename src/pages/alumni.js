@@ -137,8 +137,8 @@ const Alumni = () => {
     <div className="Alumni_data">
       <h3>Dr. Ankita Bal</h3>
       <p>completed P.hd in 2021</p>
-      <p>Thesis title: </p>
-      <p>Present Affliation : Postdoc fellow at IISER, Bhopal</p>
+      <p>Thesis title: Synthesis of Nitrogen Based N Heterocycles via Metal Free Approach </p>
+      <p>Present Affliation : HP, Bengaluru, India</p>
       <p></p>
     </div>
     </div>
