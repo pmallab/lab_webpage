@@ -24,6 +24,7 @@ const NavigationBar = () => {
                     <Link className="NavigationBarLinks" to="/research/">Research</Link>
                     <Link className="NavigationBarLinks" to="/publications/">Publications</Link>
                     <Link className="NavigationBarLinks" to="/people/">People </Link>
+                    <Link className="NavigationBarLinks" to="/alumni/">Alumni </Link>
                     <Link className="NavigationBarLinks" to="/contacts/">Contacts</Link>
                 </Nav>
             </Navbar.Collapse>
