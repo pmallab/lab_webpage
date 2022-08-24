@@ -72,6 +72,7 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
        
+      <p> 22 Aug 2022: Heartiest congaratulations Shyamal for your latest paper in OBC.</p> 
       <p> 08 Aug 2022: Warmly welcoming to our new PhD fellows Mr. Pravat and Ms. Sathi in the group.</p> 
       <p> 08 Aug 2022: Heartiest welcome to Mr. Ankit, Mr. Supratim, Mr. Kushal and Ms. Soumyashree. Hoping to see an enrich Msc thesis.</p> 
       
