@@ -127,6 +127,40 @@ const Alumni = () => {
   return(
     <Layout>
     <div className="Alumni">
+    
+    <div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni3.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Md Toufique Alam</h3>
+<p>completed P.hd in </p>
+<p>Thesis title: </p>
+<p>Present Affliation : </p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+    
+    <div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni2.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Md Toufique Alam</h3>
+<p>completed P.hd in </p>
+<p>Thesis title: </p>
+<p>Present Affliation : </p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
 
 <div class="container">
 <div class="row">
