@@ -8,70 +8,70 @@ import {Carousel} from "react-bootstrap";
 const Alumni = () => {
   const data = useStaticQuery(graphql`
           query {
-            filealumni16: file(relativePath: {eq: "images/alimni/alumni_1.jpg"}) {
+            filealumni16: file(relativePath: {eq: "images/alimni/alumni_16.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
                     }
                   }
               }
-                filealumni15: file(relativePath: {eq: "images/alumni/alumni_1.jpg"}) {
+                filealumni15: file(relativePath: {eq: "images/alumni/alumni_15.jpg"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
                         }
                       }
                   }
-            filealumni14: file(relativePath: {eq: "images/alimni/alumni1.jpg"}) {
+            filealumni14: file(relativePath: {eq: "images/alimni/alumni_14.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
                     }
                   }
               }
-                filealumni13: file(relativePath: {eq: "images/alimni/alumni1.jpg"}) {
+                filealumni13: file(relativePath: {eq: "images/alimni/alumni_13.jpg"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
                         }
                       }
                   }
-            filealumni12: file(relativePath: {eq: "images/alimni/alumni1.jpg"}) {
+            filealumni12: file(relativePath: {eq: "images/alimni/alumni_12.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
                     }
                   }
               }
-                filealumni11: file(relativePath: {eq: "images/alimni/alumni_1.jpg"}) {
+                filealumni11: file(relativePath: {eq: "images/alimni/alumni_11.jpg"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
                         }
                       }
                   }
-            filealumni10: file(relativePath: {eq: "images/alimni/alumni_1.jpg"}) {
+            filealumni10: file(relativePath: {eq: "images/alimni/alumni_10.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
                     }
                   }
               }
-                filealumni9: file(relativePath: {eq: "images/alimni/alumni_1.jpg"}) {
+                filealumni9: file(relativePath: {eq: "images/alimni/alumni_9.jpg"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
                         }
                       }
                   }
-            filealumni8: file(relativePath: {eq: "images/alimni/alumni_1.jpg"}) {
+            filealumni8: file(relativePath: {eq: "images/alimni/alumni_8.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
                     }
                   }
               }
-                filealumni7: file(relativePath: {eq: "images/alimni/alumni_1.jpg"}) {
+                filealumni7: file(relativePath: {eq: "images/alimni/alumni_7.jpg"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
