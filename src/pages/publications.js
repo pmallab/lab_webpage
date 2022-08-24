@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2022</small>
     </h2>
     
+  <li><p> S. K. Bera, R. R. Maharana, K. Samanta and P. Mal, CBr4 Catalyzed Activation of α,β-Unsaturated Ketones ,  Org. Biomol. Chem., 2022,
+  <Link className="Pub1link" to="https://doi.org/10.1039/D2OB01223E" target="_blank"> (doi.org/10.1039/D2OB01223E)</Link></p></li>
+    
   <li><p> S. K. Bera, R. Bhanja and P. Mal, DDQ in mechanochemical C–N coupling reactions,  Beilstein J. Org. Chem., 2022,
   <Link className="Pub1link" to="https://doi.org/10.3762/bjoc.18.64" target="_blank"> (doi/10.3762/bjoc.18.64)</Link></p></li>
   
