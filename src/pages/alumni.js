@@ -78,7 +78,7 @@ const Alumni = () => {
                         }
                       }
                   }
-            filealumni6: file(relativePath: {eq: "images/alimni/alumni_6.jpg"}) {
+            filealumni6: file(relativePath: {eq: "images/alimni/alumni_20.jpg"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
