@@ -406,7 +406,7 @@ const People = () => {
 <h3>Uday Singh
 <p><small class="text-muted"></small></p></h3>
 <p>Joind this group in Sept-2021</p>
-<p>Currently continuing 4th year Int. M.Sc.(NISER)</p>
+<p>Currently continuing 5th year Int. M.Sc.(NISER)</p>
 <p>Hometown: Rohtak,Haryana</p>
 <p>Research field: C-H functionalization </p>
 <p><a href="mailto: uday.singh@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
