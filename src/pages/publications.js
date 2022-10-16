@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2022</small>
     </h2>
     
+  <li><p> S. Sau and P. Mal, Visible-Light Promoted Regioselective Oxygenation of Quinoxalin-2(1H)-ones Using O2 as an Oxidant , J. Org. Chem., 2022,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.2c01960" target="_blank"> (doi.org/10.1021/acs.joc.2c01960)</Link></p></li>
+  
   <li><p> S. K. Bera, R. R. Maharana, K. Samanta and P. Mal, CBr4 Catalyzed Activation of α,β-Unsaturated Ketones ,  Org. Biomol. Chem., 2022,
   <Link className="Pub1link" to="https://doi.org/10.1039/D2OB01223E" target="_blank"> (doi.org/10.1039/D2OB01223E)</Link></p></li>
     
