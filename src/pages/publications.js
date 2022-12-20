@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2022</small>
     </h2>
     
+  <li><p> T. K. Dinda and P. Mal, Activation of C–Br Bond of CBr4 and CBrCl3 Using 9-Mesityl-10-methylacridinium Perchlorate Photocatalyst , J. Org. Chem., 2022,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.2c02595" target="_blank"> (doi.org/10.1021/acs.joc.2c02595)</Link></p></li>
+    
   <li><p> S. Sau and P. Mal, Visible-Light Promoted Regioselective Oxygenation of Quinoxalin-2(1H)-ones Using O2 as an Oxidant , J. Org. Chem., 2022,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.2c01960" target="_blank"> (doi.org/10.1021/acs.joc.2c01960)</Link></p></li>
   
