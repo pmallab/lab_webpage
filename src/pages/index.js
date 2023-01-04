@@ -71,10 +71,11 @@ const Index = () => {
     <div className="News">
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
-        
+       
+      <p> 03 Jan 2023: Super excited for our new Chemistry of Materials paper by Anupam and Tarun.</p>
       <p> 27 Dec 2022: Heartiest congaratulations to Shyamal and Sudip for your confirmed post doctoral positions.</p>
       <p> 14 Dec 2022: We got a JOC again in visible light photocatalysis by Tarun.</p>
-      <p> 10 Oct 2022: Many many congaratulations to Sudip for his latest paper in JOC.</p>
+     
       
       
      
