@@ -15,12 +15,16 @@ const Publications = () => {
       <div class ="container-md">
       <ol type="1">
       <h2>
-      <small class="text-muted"> In 2022</small>
+      <small class="text-muted"> In 2023</small>
     </h2>
     
   <li><p> A. Manna, T. K. Dinda, S. Ghosh and P. Mal, CsPbBr3 in the Activation of the C–Br Bond of CBrX3 (X = Cl, Br) under Sunlight , Chem. Mater, 2023,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.chemmater.2c03164" target="_blank"> (doi.org/10.1021/acs.chemmater.2c03164)</Link></p></li>
-    
+   
+   <h2>
+      <small class="text-muted"> In 2022</small>
+    </h2>
+  
   <li><p> T. K. Dinda and P. Mal, Activation of C–Br Bond of CBr4 and CBrCl3 Using 9-Mesityl-10-methylacridinium Perchlorate Photocatalyst , J. Org. Chem., 2022,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.2c02595" target="_blank"> (doi.org/10.1021/acs.joc.2c02595)</Link></p></li>
     
