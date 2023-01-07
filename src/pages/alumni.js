@@ -247,7 +247,7 @@ const Alumni = () => {
 <h3>Dr Tapas Kumar Achar</h3>
 <p>completed P.hd in 2016</p>
 <p>Thesis title: Enabling Non-Conventional Pathway For Organic Synthesis</p>
-<p>Present Affliation : </p>
+<p>Present Affliation :</p>
 <p></p>
 </div>
 </div>
