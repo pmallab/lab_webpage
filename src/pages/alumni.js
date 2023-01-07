@@ -189,7 +189,7 @@ const Alumni = () => {
 <div className="Alumni_data">
 <h3>Dr Sudip Sau</h3>
 <p>completed P.hd in 2022</p>
-<p>Thesis title: </p>
+<p>Thesis title: Sustainable Approaches towards C-X (-N, -C, -O) Bond Formation Reactions in Organic Synthesis</p>
 <p>Present Affliation : </p>
 <p></p>
 </div>
