@@ -152,10 +152,10 @@ const Alumni = () => {
 </div>
 <div class="col">
 <div className="Alumni_data">
-<h3>Dr Md Toufique Alam</h3>
-<p>completed P.hd in </p>
-<p>Thesis title: </p>
-<p>Present Affliation : </p>
+<h3>Dr Milan Pramanik</h3>
+<p>completed P.hd in 2022</p>
+<p>Thesis title: Reactivity Control of Alkenes, Alkynes and Alcohols for C-S Bond Formation Reactions</p>
+<p>Present Affliation : Post-doc at Cardiff University</p>
 <p></p>
 </div>
 </div>
@@ -169,9 +169,9 @@ const Alumni = () => {
 </div>
 <div class="col">
 <div className="Alumni_data">
-<h3>Dr Md Toufique Alam</h3>
-<p>completed P.hd in </p>
-<p>Thesis title: </p>
+<h3>Dr Shyamal Kanti Bera</h3>
+<p>completed P.hd in 2022</p>
+<p>Thesis title: Metal-free Approaches towards the Construction of Heterocycles</p>
 <p>Present Affliation : </p>
 <p></p>
 </div>
@@ -179,6 +179,23 @@ const Alumni = () => {
 </div>
 </div>
 
+
+<div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni4.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Sudip Sau</h3>
+<p>completed P.hd in 2022</p>
+<p>Thesis title: </p>
+<p>Present Affliation : </p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
   </div>
 </Layout>
   )
