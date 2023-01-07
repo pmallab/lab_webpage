@@ -92,7 +92,7 @@ const Alumni = () => {
                         }
                       }
                   }
-            filealumni4: file(relativePath: {eq: "images/alumni/alumni_4.jpg"}) {
+            filealumni4: file(relativePath: {eq: "images/alumni/alumni_4.JPG"}) {
                   childImageSharp {
                     fixed(width: 280) {
                       ...GatsbyImageSharpFixed
@@ -113,7 +113,7 @@ const Alumni = () => {
                     }
                   }
               }
-                filealumni1: file(relativePath: {eq: "images/alumni/alumni_1.jpg"}) {
+                filealumni1: file(relativePath: {eq: "images/alumni/alumni_1.JPG"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
