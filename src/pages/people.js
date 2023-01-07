@@ -200,53 +200,6 @@ const People = () => {
 <h1> PhD Researchers</h1>
 
 
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filephd_3.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Shyamal Kanti Bera
-<small class="text-muted"> (SRF)</small></h3>
-<p>B.Sc-2014 (Vidyasagar University), M.Sc.-2016 (Guru Ghasidas Central University)</p>
-<p> Qualified: NET(UGC)-2017, DST-INSPIRE Fellow (2017)</p>
-<p>Joined this group in July 2017</p>
-<p>Hometown: Kharagpur, West Bengal</p>
-<p>Research field: Development of transition-metal-free carbon-carbon and carbon-hetero atom bond-forming reactions.</p>
-<p><a href="mailto: shymal.bera@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;shymal.bera@niser.ac.in</a>&emsp;</p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filephd_4.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Sudip Sau
-<p><small class="text-muted"> (SRF)</small></p></h3>
-<p>B.Sc-2015 (Vidyasagar University) ,M.Sc.-2017 (IIT Dhanbad)</p>
-<p> Qualified GATE-2017, NET(LS)-2018</p>
-<p>Joined this group in July 2017</p>
-<p>Hometown: Panskura, West Bengal</p>
-<p>Research field: Developmant of sustainable strategies for carbon-carbon and carbon-hetero atom bond synthesis.</p>
-<p><a href="mailto: sudip.sau@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;sudip.sau@niser.ac.in</a></p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
 <div class="container">
 <div class="row">
 <div class="col-sm">
