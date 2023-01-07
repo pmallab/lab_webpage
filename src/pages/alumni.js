@@ -204,24 +204,6 @@ const Alumni = () => {
 <div class="container">
 <div class="row">
 <div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni7.childImageSharp.fixed}></Img>
-</div>
-<div class="col">
-<div className="Alumni_data">
-<h3>Dr Md. Toufique Alam</h3>
-<p>completed P.hd in 2019</p>
-<p>Thesis title: Organic C-X (X = N & O) Bond Synthesis Using Organo-Iodine Reagents</p>
-<p>Present Affliation : </p>
-<p></p>
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="container">
-<div class="row">
-<div class="col">
 <Img className="Alumni_pic" fixed={data.filealumni5.childImageSharp.fixed}></Img>
 </div>
 <div class="col">
