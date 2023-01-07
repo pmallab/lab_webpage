@@ -128,22 +128,7 @@ const Alumni = () => {
     <Layout>
     <div className="Alumni">
     
-    <div class="container">
-<div class="row">
-<div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni3.childImageSharp.fixed}></Img>
-</div>
-<div class="col">
-<div className="Alumni_data">
-<h3>Dr Ankita Bal</h3>
-<p>completed P.hd in 2021</p>
-<p>Thesis title: Synthesis of Nitrogen Based N-Heterocycles via Metal Free Approach</p>
-<p>Present Affliation: HPCL</p>
-<p></p>
-</div>
-</div>
-</div>
-</div>
+  
     
     <div class="container">
 <div class="row">
@@ -196,6 +181,83 @@ const Alumni = () => {
 </div>
 </div>
 </div>
+
+
+  <div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni3.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Ankita Bal</h3>
+<p>completed P.hd in 2021</p>
+<p>Thesis title: Synthesis of Nitrogen Based N-Heterocycles via Metal Free Approach</p>
+<p>Present Affliation: HPCL</p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni7.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Md. Toufique Alam</h3>
+<p>completed P.hd in 2019</p>
+<p>Thesis title: Organic C-X (X = N & O) Bond Synthesis Using Organo-Iodine Reagents</p>
+<p>Present Affliation : </p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni5.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Saikat Maiti</h3>
+<p>completed P.hd in 2017</p>
+<p>Thesis title: Hypervalent Iodine(III) Mediated C-N Bond Formation Reactions</p>
+<p>Present Affliation : </p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni6.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Tapas Kumar Achar</h3>
+<p>completed P.hd in 2016</p>
+<p>Thesis title: Enabling Non-Conventional Pathway For Organic Synthesis</p>
+<p>Present Affliation : </p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
   </div>
 </Layout>
   )
