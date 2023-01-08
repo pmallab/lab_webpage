@@ -201,22 +201,6 @@ const Alumni = () => {
 </div>
 
 
-/*<div class="container">
-<div class="row">
-<div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni5.childImageSharp.fixed}></Img>
-</div>
-<div class="col">
-<div className="Alumni_data">
-<h3>Dr Saikat Maiti</h3>
-<p>completed P.hd in 2017</p>
-<p>Thesis title: Hypervalent Iodine(III) Mediated C-N Bond Formation Reactions</p>
-<p>Present Affliation : </p>
-<p></p>
-</div>
-</div>
-</div>
-</div>*/
 
 
 <div class="container">
