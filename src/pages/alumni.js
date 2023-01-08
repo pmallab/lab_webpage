@@ -201,7 +201,7 @@ const Alumni = () => {
 </div>
 
 
-<div class="container">
+/*<div class="container">
 <div class="row">
 <div class="col">
 <Img className="Alumni_pic" fixed={data.filealumni5.childImageSharp.fixed}></Img>
@@ -216,7 +216,7 @@ const Alumni = () => {
 </div>
 </div>
 </div>
-</div>
+</div>*/
 
 
 <div class="container">
