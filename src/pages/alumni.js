@@ -200,7 +200,22 @@ const Alumni = () => {
 </div>
 </div>
 
-
+<div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni16.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Tapas Kumar Achar</h3>
+<p>completed P.hd in 2016</p>
+<p>Thesis title: Enabling Non-Conventional Pathway For Organic Synthesis</p>
+<p>Present Affliation :</p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
 
   </div>
 </Layout>
