@@ -202,11 +202,10 @@ const Alumni = () => {
 
 
 
-
 <div class="container">
 <div class="row">
 <div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni6.childImageSharp.fixed}></Img>
+<Img className="Alumni_pic" fixed={data.filealumni16.childImageSharp.fixed}></Img>
 </div>
 <div class="col">
 <div className="Alumni_data">
