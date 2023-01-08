@@ -200,22 +200,7 @@ const Alumni = () => {
 </div>
 </div>
 
-<div class="container">
-<div class="row">
-<div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni5.childImageSharp.fixed}></Img>
-</div>
-<div class="col">
-<div className="Alumni_data">
-<h3>Dr A</h3>
-<p>completed P.hd in 2021</p>
-<p>Thesis title: </p>
-<p>Present Affliation:</p>
-<p></p>
-</div>
-</div>
-</div>
-</div>
+
 
   </div>
 </Layout>
