@@ -200,6 +200,22 @@ const Alumni = () => {
 </div>
 </div>
 
+<div class="container">
+<div class="row">
+<div class="col">
+<Img className="Alumni_pic" fixed={data.filealumni3.childImageSharp.fixed}></Img>
+</div>
+<div class="col">
+<div className="Alumni_data">
+<h3>Dr Ankita Bal</h3>
+<p>completed P.hd in 2021</p>
+<p>Thesis title: Synthesis of Nitrogen Based N-Heterocycles via Metal Free Approach</p>
+<p>Present Affliation: HPCL</p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
 
   </div>
 </Layout>
