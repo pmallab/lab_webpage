@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
     
+  <li><p> S. K. Bera, R. Bhanja and P. Mal, Catalyst-Free Photoinduced C-C Bond Formations,  Synthesis, 2023,
+  <Link className="Pub1link" to="https://doi.org/10.1055/a-2043-3973" target="_blank"> (doi.org/10.1055/a-2043-3973)</Link></p></li>
+  
   <li><p> A. Manna, T. K. Dinda, S. Ghosh and P. Mal, CsPbBr3 in the Activation of the C–Br Bond of CBrX3 (X = Cl, Br) under Sunlight , Chem. Mater, 2023,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.chemmater.2c03164" target="_blank"> (doi.org/10.1021/acs.chemmater.2c03164)</Link></p></li>
    
