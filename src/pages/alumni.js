@@ -141,10 +141,6 @@ const Alumni = () => {
 </div>
 
 <div class="container">
-<div class="row">
-<div class="col">
-</div>
-<div class="col">
 <div className="Alumni_data">
 <h3>Dr Shyamal Kanti Bera</h3>
 <p>completed P.hd in 2022</p>
@@ -153,15 +149,9 @@ const Alumni = () => {
 <p></p>
 </div>
 </div>
-</div>
-</div>
 
 
 <div class="container">
-<div class="row">
-<div class="col">
-</div>
-<div class="col">
 <div className="Alumni_data">
 <h3>Dr Sudip Sau</h3>
 <p>completed P.hd in 2022</p>
@@ -170,15 +160,10 @@ const Alumni = () => {
 <p></p>
 </div>
 </div>
-</div>
-</div>
 
 
   <div class="container">
-<div class="row">
-<div class="col">
-</div>
-<div class="col">
+
 <div className="Alumni_data">
 <h3>Dr Ankita Bal</h3>
 <p>completed P.hd in 2021</p>
@@ -187,23 +172,17 @@ const Alumni = () => {
 <p></p>
 </div>
 </div>
-</div>
-</div>
+
 
 
 <div class="container">
-<div class="row">
-<div class="col">
-</div>
-<div class="col">
+
 <div className="Alumni_data">
 <h3>Dr Md. Toufique Alam</h3>
 <p>completed P.hd in 2019</p>
 <p>Thesis title: Organic C-X (X = N & O) Bond Synthesis Using Organo-Iodine Reagents</p>
 <p>Present Affliation: Assistant teacher</p>
 <p></p>
-</div>
-</div>
 </div>
 </div>
 
