@@ -133,7 +133,6 @@ const Alumni = () => {
     <div class="container">
 <div class="row">
 <div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni2.childImageSharp.fixed}></Img>
 </div>
 <div class="col">
 <div className="Alumni_data">
@@ -150,7 +149,6 @@ const Alumni = () => {
 <div class="container">
 <div class="row">
 <div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni1.childImageSharp.fixed}></Img>
 </div>
 <div class="col">
 <div className="Alumni_data">
@@ -168,7 +166,6 @@ const Alumni = () => {
 <div class="container">
 <div class="row">
 <div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni4.childImageSharp.fixed}></Img>
 </div>
 <div class="col">
 <div className="Alumni_data">
@@ -186,7 +183,6 @@ const Alumni = () => {
   <div class="container">
 <div class="row">
 <div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni3.childImageSharp.fixed}></Img>
 </div>
 <div class="col">
 <div className="Alumni_data">
@@ -204,7 +200,6 @@ const Alumni = () => {
 <div class="container">
 <div class="row">
 <div class="col">
-<Img className="Alumni_pic" fixed={data.filealumni5.childImageSharp.fixed}></Img>
 </div>
 <div class="col">
 <div className="Alumni_data">
