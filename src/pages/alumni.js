@@ -131,18 +131,12 @@ const Alumni = () => {
   
     
     <div class="container">
-<div class="row">
-<div class="col">
-</div>
-<div class="col">
 <div className="Alumni_data">
 <h3>Dr Milan Pramanik</h3>
 <p>completed P.hd in 2022</p>
 <p>Thesis title: Reactivity Control of Alkenes, Alkynes and Alcohols for C-S Bond Formation Reactions</p>
 <p>Present Affliation : Post-doc at Cardiff University</p>
 <p></p>
-</div>
-</div>
 </div>
 </div>
 
