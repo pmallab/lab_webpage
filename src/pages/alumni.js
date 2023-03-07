@@ -132,20 +132,20 @@ const Alumni = () => {
     
     <div class="container">
 <div className="Alumni_data">
-<h3>Dr Milan Pramanik</h3>
+<h3>Dr. Milan Pramanik</h3>
 <p>completed P.hd in 2022</p>
 <p>Thesis title: Reactivity Control of Alkenes, Alkynes and Alcohols for C-S Bond Formation Reactions</p>
-<p>Present Affliation : Post-doc at Cardiff University</p>
+<p>Present Affliation : Post-doc at Cardiff University, UK</p>
 <p></p>
 </div>
 </div>
 
 <div class="container">
 <div className="Alumni_data">
-<h3>Dr Shyamal Kanti Bera</h3>
+<h3>Dr. Shyamal Kanti Bera</h3>
 <p>completed P.hd in 2022</p>
 <p>Thesis title: Metal-free Approaches towards the Construction of Heterocycles</p>
-<p>Present Affliation : </p>
+<p>Present Affliation : Post doc at University of Cagliari, Italy</p>
 <p></p>
 </div>
 </div>
@@ -153,10 +153,10 @@ const Alumni = () => {
 
 <div class="container">
 <div className="Alumni_data">
-<h3>Dr Sudip Sau</h3>
+<h3>Dr. Sudip Sau</h3>
 <p>completed P.hd in 2022</p>
 <p>Thesis title: Sustainable Approaches towards C-X (-N, -C, -O) Bond Formation Reactions in Organic Synthesis</p>
-<p>Present Affliation : </p>
+<p>Present Affliation : Joining Post doc at CAU, South Korea</p>
 <p></p>
 </div>
 </div>
@@ -165,7 +165,7 @@ const Alumni = () => {
   <div class="container">
 
 <div className="Alumni_data">
-<h3>Dr Ankita Bal</h3>
+<h3>Dr. Ankita Bal</h3>
 <p>completed P.hd in 2021</p>
 <p>Thesis title: Synthesis of Nitrogen Based N-Heterocycles via Metal Free Approach</p>
 <p>Present Affliation: HPCL</p>
@@ -174,26 +174,36 @@ const Alumni = () => {
 </div>
 
 
-
-<div class="container">
+  <div class="container">
 
 <div className="Alumni_data">
-<h3>Dr Md. Toufique Alam</h3>
+<h3>Dr. Md. Toufique Alam</h3>
 <p>completed P.hd in 2019</p>
 <p>Thesis title: Organic C-X (X = N & O) Bond Synthesis Using Organo-Iodine Reagents</p>
 <p>Present Affliation: Assistant teacher</p>
 <p></p>
 </div>
 </div>
-
   
   <div class="container">
 
 <div className="Alumni_data">
-<h3>Dr Prasit Kumar Sahoo</h3>
-<p>completed P.hd in 2016</p>
-<p>Thesis title: Subcomponent Synthesis Via Mechanochemistry</p>
-<p>Present Affliation: </p>
+<h3>Dr. Anima Bose</h3>
+<p>completed P.hd in 2018</p>
+<p>Thesis title: Peroxide Promoted C-X (X = -O, -N) Bond Syntheisis</p>
+<p>Present Affliation: Asst. Prof.</p>
+<p></p>
+</div>
+</div>
+ 
+  
+  <div class="container">
+
+<div className="Alumni_data">
+<h3>Dr. Saikat Maiti</h3>
+<p>completed P.hd in 2017</p>
+<p>Thesis title: Hypervalent Lodine(Iii) Mediated C-N Bond Formation Reactions</p>
+<p>Present Affliation: Scientist at Merc, Bengaluru</p>
 <p></p>
 </div>
 </div>
@@ -201,7 +211,18 @@ const Alumni = () => {
   <div class="container">
 
 <div className="Alumni_data">
-<h3>Dr Tapas Kumar Achar</h3>
+<h3>Dr. Prasit Kumar Sahoo</h3>
+<p>completed P.hd in 2016</p>
+<p>Thesis title: Subcomponent Synthesis Via Mechanochemistry</p>
+<p>Present Affliation: Patent officer, Kolkata</p>
+<p></p>
+</div>
+</div>
+  
+  <div class="container">
+
+<div className="Alumni_data">
+<h3>Dr. Tapas Kumar Achar</h3>
 <p>completed P.hd in 2016</p>
 <p>Thesis title: Enabling Non-Conventional Pathway For Organic Synthesis</p>
 <p>Present Affliation: Works at Syngene </p>
