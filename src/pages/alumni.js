@@ -186,6 +186,29 @@ const Alumni = () => {
 </div>
 </div>
 
+  
+  <div class="container">
+
+<div className="Alumni_data">
+<h3>Dr Prasit Kumar Sahoo</h3>
+<p>completed P.hd in 2016</p>
+<p>Thesis title: Subcomponent Synthesis Via Mechanochemistry</p>
+<p>Present Affliation: </p>
+<p></p>
+</div>
+</div>
+  
+  <div class="container">
+
+<div className="Alumni_data">
+<h3>Dr Tapas Kumar Achar</h3>
+<p>completed P.hd in 2016</p>
+<p>Thesis title: Enabling Non-Conventional Pathway For Organic Synthesis</p>
+<p>Present Affliation: Works at Syngene </p>
+<p></p>
+</div>
+</div>
+  
 
   </div>
 </Layout>
