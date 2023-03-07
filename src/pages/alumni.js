@@ -173,7 +173,17 @@ const Alumni = () => {
 </div>
 </div>
 
+ <div class="container">
 
+<div className="Alumni_data">
+<h3>Dr. Khokan Choudhuri</h3>
+<p>completed P.hd in 2020</p>
+<p>Thesis title: Sustainable Strategies For Carbon-Sulfur Bond Formation Reactions In Organic Synthesis</p>
+<p>Present Affliation: Post doc at NTU, Singapore</p>
+<p></p>
+</div>
+</div>
+  
   <div class="container">
 
 <div className="Alumni_data">
