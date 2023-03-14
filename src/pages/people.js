@@ -230,7 +230,7 @@ const People = () => {
 <div class="col-sm">
 <div className= "Phd1_data">
 <h3>Tarun Kumar Dinda
-<small class="text-muted"> (JRF)</small></h3>
+<small class="text-muted"> (SRF)</small></h3>
 <p>B.Sc-2015 (Vidyasagar University) ,M.Sc.-2019 (Jadavpur University)</p>
 <p> Qualified GATE-2019</p>
 <p>Joined this group in Jan-2021</p>
