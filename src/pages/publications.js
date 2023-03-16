@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
     
+  <li><p> R. Bhanja, S. K. Bera and P. Mal, Regioselective Synthesis of Phenanthridine-Fused Quinazolinones using 9-Mesityl-10-Methylacridinium Perchlorate Photocatalyst, Chem. Commun, 2023,
+  <Link className="Pub1link" to="https://doi.org/10.1039/D3CC00537B" target="_blank"> (doi.org/10.1039/D3CC00537B)</Link></p></li>
+    
   <li><p> S. K. Bera, R. Bhanja and P. Mal, Catalyst-Free Photoinduced C-C Bond Formations,  Synthesis, 2023,
   <Link className="Pub1link" to="https://doi.org/10.1055/a-2043-3973" target="_blank"> (doi.org/10.1055/a-2043-3973)</Link></p></li>
   
