@@ -72,6 +72,7 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
        
+      <p> 15 Mar 2023: Many many congratulations to Rosalin and Shyamal for their latest review article in Chem. Commun.</p>
       <p> 27 Feb 2023: Many many congratulations to Shyamal and Rosalin for their latest review article in Synthesis.</p>
       <p> 03 Jan 2023: Super excited for our new Chemistry of Materials paper by Anupam and Tarun.</p>
       <p> 27 Dec 2022: Heartiest congratulations to Shyamal and Sudip for your confirmed post doctoral positions.</p>
