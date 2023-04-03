@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
     
+  <li><p> S. K. Bera, R. Bhanja, C. C. Sahu and P. Mal, An Intramolecular Radical C-N Coupling by N-Iodosuccinimide, Synthesis, 2023,
+  <Link className="Pub1link" to="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2063-0221" target="_blank"> (doi.org/10.1055/a-2063-0221)</Link></p></li>
+  
   <li><p> R. Bhanja, S. K. Bera and P. Mal, Regioselective Synthesis of Phenanthridine-Fused Quinazolinones using 9-Mesityl-10-Methylacridinium Perchlorate Photocatalyst, Chem. Commun, 2023,
   <Link className="Pub1link" to="https://doi.org/10.1039/D3CC00537B" target="_blank"> (doi.org/10.1039/D3CC00537B)</Link></p></li>
     
