@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
     
+  <li><p> B. Pal, A.  Mathuri, A. Manna and P. Mal, CsPbBr3 Perovskite Photocatalyst in Chemodivergent Functionalization of N-Methylalkanamides Using CBr4, Org. Lett, 2023,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.orglett.3c01268" target="_blank"> (doi.org/10.1021/acs.orglett.3c01268)</Link></p></li>
+    
   <li><p> S. K. Bera, R. Bhanja, C. C. Sahu and P. Mal, An Intramolecular Radical C-N Coupling by N-Iodosuccinimide, Synthesis, 2023,
   <Link className="Pub1link" to="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2063-0221" target="_blank"> (doi.org/10.1055/a-2063-0221)</Link></p></li>
   
