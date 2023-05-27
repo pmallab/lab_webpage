@@ -128,7 +128,15 @@ const Alumni = () => {
     <Layout>
     <div className="Alumni">
     
-  
+  <div class="container">
+<div className="Alumni_data">
+<h3>Mr. Uday Singh</h3>
+<p>Completed Int. M.Sc. in 2023</p>
+<p>Thesis title: An Attempt towards Synthesis of C-X (-N, -C, -O) Bonds via Mild and Convenient Approaches</p>
+<p>Present Affliation : MBA, India</p>
+<p></p>
+</div>
+</div>
     
     <div class="container">
 <div className="Alumni_data">
