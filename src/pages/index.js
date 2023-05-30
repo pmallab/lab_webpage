@@ -72,6 +72,7 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
         
+      <p> 26 May 2023: Congratulations to Dr. Sudip for achieving the HBNI Outstanding Doctoral Student Award 2023 in Chemical Sciences. We proud of you.</p> 
       <p> 26 May 2023: Heartiest congratulations to Buddha for his latest article in OL. Excellent beginning</p>
       <p> 15 Mar 2023: Many many congratulations to Rosalin and Shyamal for their paper in Chem. Commun.</p>
       
