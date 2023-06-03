@@ -140,7 +140,7 @@ const Alumni = () => {
     
     <div class="container">
 <div className="Alumni_data">
-<h3>Dr. Milan Pramanik</h3>
+<h3>Dr. Milan Pramanik (Outstanding Doctoral Student of HBNI, 2022)</h3>
 <p>Completed Ph.D. in 2022</p>
 <p>Thesis title: Reactivity Control of Alkenes, Alkynes and Alcohols for C-S Bond Formation Reactions</p>
 <p>Present Affliation : Postdoctoral fellow at Cardiff University, UK</p>
@@ -161,10 +161,10 @@ const Alumni = () => {
 
 <div class="container">
 <div className="Alumni_data">
-<h3>Dr. Sudip Sau</h3>
+<h3>Dr. Sudip Sau (Outstanding Doctoral Student of HBNI, 2023)</h3>
 <p>Completed Ph.D. in 2022</p>
 <p>Thesis title: Sustainable Approaches towards C-X (-N, -C, -O) Bond Formation Reactions in Organic Synthesis</p>
-<p>Present Affliation : Joining as a postdoctoral fellow at CAU, South Korea</p>
+<p>Present Affliation : Postdoctoral fellow at CAU, South Korea</p>
 <p></p>
 </div>
 </div>
