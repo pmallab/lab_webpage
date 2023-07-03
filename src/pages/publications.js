@@ -17,6 +17,9 @@ const Publications = () => {
       <h2>
       <small class="text-muted"> In 2023</small>
     </h2>
+
+  <li><p> A.  Mathuri, B. Pal, M. Pramanik and P. Mal, Chemodivergent Chalcogenation of Aryl Alkynoates or N-Arylpropynamides Using 9-Mesityl-10-Methylacridinium Perchlorate Photocatalyst,  JOC, 2023,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.3c00926" target="_blank"> (doi.org/10.1021/acs.joc.3c00926)</Link></p></li>
     
   <li><p> B. Pal, A.  Mathuri, A. Manna and P. Mal, CsPbBr3 Perovskite Photocatalyst in Chemodivergent Functionalization of N-Methylalkanamides Using CBr4, Org. Lett, 2023,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.orglett.3c01268" target="_blank"> (doi.org/10.1021/acs.orglett.3c01268)</Link></p></li>
