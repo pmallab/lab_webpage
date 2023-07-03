@@ -200,27 +200,6 @@ const People = () => {
 <h1> PhD Researchers</h1>
 
 
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filephd_5.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Ashis Mathuri
-<p><small class="text-muted"> (SRF)</small></p></h3>
-<p>Joined this group in July-2019</p>
-<p>B.Sc. (Sidhu Kanho Birsha University), M.Sc.(Dr. C.V. Raman University)</p>
-<p>Hometown: Bankura, West Bengal</p>
-<p>Research field: Visible Light Photocatalyst in C-S Bond formation</p>
-<p><a href="mailto: ashis.mathuri@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;ashis.mathuri@niser.ac.in</a></p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
 
 <div class="container">
 <div class="row">
