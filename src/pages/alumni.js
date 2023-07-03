@@ -127,13 +127,23 @@ const Alumni = () => {
   return(
     <Layout>
     <div className="Alumni">
+
+    <div class="container">
+<div className="Alumni_data">
+<h3>Dr. Ashis Mathuri</h3>
+<p>Completed Ph.D. in 2023</p>
+<p>Thesis title: Sustainable Approaches in the Synthesis of Organosulfur Compounds.</p>
+<p>Present Affiliation: Works at Macleods, Mumbai, India</p>
+<p></p>
+</div>
+</div>
     
   <div class="container">
 <div className="Alumni_data">
 <h3>Mr. Uday Singh</h3>
 <p>Completed Int. M.Sc. in 2023</p>
 <p>Thesis title: An Attempt towards Synthesis of C-X (-N, -C, -O) Bonds via Mild and Convenient Approaches</p>
-<p>Present Affliation : MBA, India</p>
+<p>Present Affiliation : MBA, India</p>
 <p></p>
 </div>
 </div>
@@ -143,7 +153,7 @@ const Alumni = () => {
 <h3>Dr. Milan Pramanik (Outstanding Doctoral Student of HBNI, 2022)</h3>
 <p>Completed Ph.D. in 2022</p>
 <p>Thesis title: Reactivity Control of Alkenes, Alkynes and Alcohols for C-S Bond Formation Reactions</p>
-<p>Present Affliation : Postdoctoral fellow at Cardiff University, UK</p>
+<p>Present Affiliation: Postdoctoral fellow at Cardiff University, UK</p>
 <p></p>
 </div>
 </div>
@@ -153,7 +163,7 @@ const Alumni = () => {
 <h3>Dr. Shyamal Kanti Bera</h3>
 <p>Completed Ph.D. in 2022</p>
 <p>Thesis title: Metal-free Approaches towards the Construction of Heterocycles</p>
-<p>Present Affliation : Postdoctoral fellow at University of Cagliari, Italy</p>
+<p>Present Affiliation: Postdoctoral fellow at University of Cagliari, Italy</p>
 <p></p>
 </div>
 </div>
@@ -164,7 +174,7 @@ const Alumni = () => {
 <h3>Dr. Sudip Sau (Outstanding Doctoral Student of HBNI, 2023)</h3>
 <p>Completed Ph.D. in 2022</p>
 <p>Thesis title: Sustainable Approaches towards C-X (-N, -C, -O) Bond Formation Reactions in Organic Synthesis</p>
-<p>Present Affliation : Postdoctoral fellow at CAU, South Korea</p>
+<p>Present Affiliation: Postdoctoral fellow at CAU, South Korea</p>
 <p></p>
 </div>
 </div>
@@ -187,7 +197,7 @@ const Alumni = () => {
 <h3>Dr. Khokan Choudhuri</h3>
 <p>Completed Ph.D. in 2020</p>
 <p>Thesis title: Sustainable Strategies For Carbon-Sulfur Bond Formation Reactions In Organic Synthesis</p>
-<p>Present Affliation: Postdoctoral fellow at NTU, Singapore</p>
+<p>Present Affiliation: Postdoctoral fellow at NTU, Singapore</p>
 <p></p>
 </div>
 </div>
@@ -198,7 +208,7 @@ const Alumni = () => {
 <h3>Dr. Md. Toufique Alam</h3>
 <p>Completed Ph.D. in 2019</p>
 <p>Thesis title: Organic C-X (X = N & O) Bond Synthesis Using Organo-Iodine Reagents</p>
-<p>Present Affliation: Assistant teacher</p>
+<p>Present Affiliation: Assistant teacher</p>
 <p></p>
 </div>
 </div>
@@ -209,7 +219,7 @@ const Alumni = () => {
 <h3>Dr. Anima Bose</h3>
 <p>Completed Ph.D. in 2018</p>
 <p>Thesis title: Peroxide Promoted C-X (X = -O, -N) Bond Syntheisis</p>
-<p>Present Affliation: Asst. Prof.</p>
+<p>Present Affiliation: Asst. Prof.</p>
 <p></p>
 </div>
 </div>
@@ -221,7 +231,7 @@ const Alumni = () => {
 <h3>Dr. Saikat Maiti</h3>
 <p>Completed Ph.D. in 2017</p>
 <p>Thesis title: Hypervalent Lodine(Iii) Mediated C-N Bond Formation Reactions</p>
-<p>Present Affliation: Scientist at Merc, Bengaluru</p>
+<p>Present Affiliation: Scientist at Merc, Bengaluru</p>
 <p></p>
 </div>
 </div>
@@ -232,7 +242,7 @@ const Alumni = () => {
 <h3>Dr. Prasit Kumar Sahoo</h3>
 <p>Completed Ph.D. in 2016</p>
 <p>Thesis title: Subcomponent Synthesis Via Mechanochemistry</p>
-<p>Present Affliation: Patent officer, Kolkata</p>
+<p>Present Affiliation: Patent officer, Kolkata</p>
 <p></p>
 </div>
 </div>
@@ -243,7 +253,7 @@ const Alumni = () => {
 <h3>Dr. Tapas Kumar Achar</h3>
 <p>Completed Ph.D. in 2016</p>
 <p>Thesis title: Enabling Non-Conventional Pathway For Organic Synthesis</p>
-<p>Present Affliation: Works at Syngene </p>
+<p>Present Affiliation: Works at Syngene </p>
 <p></p>
 </div>
 </div>
