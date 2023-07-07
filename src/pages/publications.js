@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
 
+  <li><p> Dinda, T. K.; Kabir, S. R.; Mal, P. Stereoselective Synthesis of Z-Styryl Sulfides from Nucleophilic Addition of Arylacetylenes and Benzyl Thiols. J. Org. Chem. 2023,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.3c00911" target="_blank"> (doi.org/10.1021/acs.joc.3c00911)</Link></p></li>
+    
   <li><p> A.  Mathuri, B. Pal, M. Pramanik and P. Mal, Chemodivergent Chalcogenation of Aryl Alkynoates or N-Arylpropynamides Using 9-Mesityl-10-Methylacridinium Perchlorate Photocatalyst,  JOC, 2023,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.3c00926" target="_blank"> (doi.org/10.1021/acs.joc.3c00926)</Link></p></li>
     
