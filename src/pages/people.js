@@ -339,7 +339,7 @@ const People = () => {
 <h3>Kushal Baloda
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in May 2022</p>
-<p>Currently continuing Int. MSc(NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 9th semester</p>
 <p> Qualified JEE Main, 2019</p>
 <p>Hometown: Jaipur, Rajasthan</p>
 <p>Research field: Material Chemistry</p>
@@ -363,7 +363,7 @@ const People = () => {
 <h3>Soumyashree Priyadarshinee
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in May 2022</p>
-<p>Currently continuing Int. MSc(NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 9th semester</p>
 <p> Qualified NEST Exam</p>
 <p>Hometown: Dhenkanal , Odisha</p>
 <p>Research field: Synthetic organic chemistry</p>
@@ -387,7 +387,7 @@ const People = () => {
 <h3>Supratim Chatterjee
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2022</p>
-<p>Currently continuing Int. MSc(NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 9th semester</p>
 <p> Qualified NEST Exam (AIR 511)</p>
 <p>Hometown: Kolkata, West Bengal</p>
 <p>Research field: Synthetic organic chemistry</p>
@@ -412,7 +412,7 @@ const People = () => {
 <h3>Ankit Ray
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2022</p>
-<p>Currently continuing Int. MSc(NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 9th semester</p>
 <p> Qualified NEST Exam (AIR 280)</p>
 <p>Hometown: Kolkata, West Bengal</p>
 <p>Research field: Synthetic organic chemistry</p>
@@ -436,7 +436,7 @@ const People = () => {
 <h3>Sagnik Bhattacharya
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2023</p>
-<p>Currently continuing Int. MSc(NISER), 7th semester</p>
+<p>Currently continuing Int. MSc (NISER), 7th semester</p>
 <p> Qualified NEST Exam, 2020</p>
 <p>Hometown: Kolkata, West Bengal</p>
 <p>Research field: Lanthanide-based Perovskite Synthesis</p>
@@ -449,6 +449,29 @@ const People = () => {
 </div>
 <pre></pre>
 
+
+<div class="container">
+<div class="row">
+<div class="col-sm">
+<Img className="Member_5" fixed={data.filemsc_4.childImageSharp.fixed}></Img>
+</div>
+<div class="col-sm">
+<div className= "Phd1_data">
+<h3>Soham Roy
+<p><small class="text-muted"></small></p></h3>
+<p>Joined this group in August 2023</p>
+<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p> Qualified NEST Exam, 2020</p>
+<p>Hometown: South Dinajpur, West Bengal</p>
+<p>Research field: Synthesis of Materials and biologically Important Molecules</p>
+<p><a href="mailto: soham.roy@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg>&nbsp;soham.roy@niser.ac.in</a>&emsp;</p>
+</div>
+</div>
+</div>
+</div>
+<pre></pre>
 
 
 
