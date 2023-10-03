@@ -18,6 +18,10 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
 
+  <li><p> R. Bhanja, S. K. Bera and P. Mal, Photocatalyst- and Transition Metal-Free Light-Induced Borylation Reactions. Chem Asian J. 2023,
+  <Link className="Pub1link" to="https://doi.org/10.1002/asia.202300691" target="_blank"> (doi.org/10.1002/asia.202300691)</Link></p></li>
+
+    
   <li><p> Dinda, T. K.; Kabir, S. R.; Mal, P. Stereoselective Synthesis of Z-Styryl Sulfides from Nucleophilic Addition of Arylacetylenes and Benzyl Thiols. J. Org. Chem. 2023,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.3c00911" target="_blank"> (doi.org/10.1021/acs.joc.3c00911)</Link></p></li>
     
