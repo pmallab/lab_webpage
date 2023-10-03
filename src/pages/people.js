@@ -429,7 +429,7 @@ const People = () => {
 <div class="container">
 <div class="row">
 <div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_5.childImageSharp.fixed}></Img>
+<Img className="Member_5" fixed={data.filemsc_1.childImageSharp.fixed}></Img>
 </div>
 <div class="col-sm">
 <div className= "Phd1_data">
