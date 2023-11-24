@@ -232,7 +232,7 @@ const People = () => {
 <div class="col-sm">
 <div className= "Phd1_data">
 <h3>Rosalin Bhanja
-<small class="text-muted"> (JRF)</small></h3>
+<small class="text-muted"> (SRF)</small></h3>
 <p>B.Sc-2016 (Ravenshaw university), M.Sc.-2020 (Central university of jharkhand)</p>
 <p> Qualified GATE-2021, NET(CSIR)-2020</p>
 <p>Joined this group in July 2021</p>
@@ -256,7 +256,7 @@ const People = () => {
 <div class="col-sm">
 <div className= "Phd1_data">
 <h3>Buddhadeb Pal
-<small class="text-muted"> (JRF)</small></h3>
+<small class="text-muted"> (SRF)</small></h3>
 <p>B.Sc-2018 (Vidyasagar University) ,M.Sc.-2020 (Vidyasagar University)</p>
 <p> Qualified GATE 2021</p>
 <p>Joined this group in July-2021</p>
