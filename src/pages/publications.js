@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
 
+  <li><p> A. Mathuri, B. Pal, M. Pramanik, A. Manna and P. Mal, Enhancing Photocatalytic Efficiency and Stability of CsPbBr3 Nanocrystals for Visible-Light Driven Aerobic Diaryl Thio/Seleno Etherification,  Catal. Sci. Technol., 2023,
+  <Link className="Pub1link" to="https://doi.org/10.1039/D3CY01478A" target="_blank"> (doi.org/10.1039/D3CY01478A)</Link></p></li>
+
   <li><p> R. Bhanja, S. K. Bera and P. Mal, Photocatalyst- and Transition Metal-Free Light-Induced Borylation Reactions. Chem Asian J. 2023,
   <Link className="Pub1link" to="https://doi.org/10.1002/asia.202300691" target="_blank"> (doi.org/10.1002/asia.202300691)</Link></p></li>
 
