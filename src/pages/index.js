@@ -72,10 +72,11 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
 
-
+      
+      <p> 28 Nov 2023: Many congratulations to Ashis and Buddhadeb for their latest paper in Catal. Sci. Technol. Best of luck.</p>
       <p> 25 Sept 2023: Heartiest congratulations to Rosalin for her latest paper in Chem Asian J.</p>
-      <p> 05 Jul 2023: Overwhelmed to share our work published in JOC. Tells how to achieve 100%-Z styryl sulfides.</p>
-      <p> 03 Jul 2023: Many congratulations to Ashis and Buddhadeb for their latest paper in JOC. Best of luck.</p>
+      
+      
      
       
      
