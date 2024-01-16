@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
 
+  <li><p> B. Pal, S. Sahoo and P. Mal, Atom Transfer Radical Addition Reactions of Quinoxalin-2(1H)ones with CBr4 and Styrenes Using Mes-Acr-MeClO4 Photocatalyst. JOC. 2024,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.3c02469" target="_blank"> (doi.org/10.1021/acs.joc.3c02469)</Link></p></li>
+    
   <li><p> R. Bhanja, S. K. Bera and P. Mal, Photocatalyst- and Transition-Metal-Free Light-Induced Formation of Carbon-Chalcogen Bonds. Adv. Synth. Catal. 2023,
   <Link className="Pub1link" to="https://doi.org/10.1002/adsc.202301094" target="_blank"> (doi.org/10.1002/adsc.202301094)</Link></p></li>
 
