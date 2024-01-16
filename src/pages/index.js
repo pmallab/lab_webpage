@@ -71,7 +71,8 @@ const Index = () => {
     <div className="News">
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
-
+  
+      <p> 12 Jan 2024: Heartiest congratulations to Buddhadeb for his latest paper in JOC. Keep it up.</p>
       <p> 19 Dec 2023: Heartiest congratulations to Rosalin for her latest paper in Adv. Synth. Catal.</p>
       <p> 28 Nov 2023: Many congratulations to Ashis and Buddhadeb for their latest paper in Catal. Sci. Technol. Best of luck.</p>
       
