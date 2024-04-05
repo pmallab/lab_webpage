@@ -130,6 +130,17 @@ const Alumni = () => {
 
     <div class="container">
 <div className="Alumni_data">
+<h3>Dr. Anupam Manna</h3>
+<p>RA from Nov 2021 - Mar 2024</p>
+<p>Research field: Synthesis of fluorescence materials and their applications.</p>
+<p>Present Affiliation: Works at Macleods, Gujrat, India</p>
+<p></p>
+</div>
+</div>
+
+    
+    <div class="container">
+<div className="Alumni_data">
 <h3>Dr. Ashis Mathuri</h3>
 <p>Completed Ph.D. in 2023</p>
 <p>Thesis title: Sustainable Approaches in the Synthesis of Organosulfur Compounds.</p>
