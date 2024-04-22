@@ -71,7 +71,9 @@ const Index = () => {
     <div className="News">
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
-  
+
+
+      <p> 18 Apr 2024: Many congratulations to Pravat for his latest paper in Chem. Eur. J. Best wishes.</p>
       <p> 03 Apr 2024: Heartiest congratulations to Rosalin for her latest paper in Synthesis. Keep it up.</p>
       
       
