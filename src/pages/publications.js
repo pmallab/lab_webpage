@@ -18,6 +18,11 @@ const Publications = () => {
       <small class="text-muted"> In 2023</small>
     </h2>
 
+ 
+  <li><p> P. Nayek and P. Mal, Mimicking Ozonolysis via Mechanochemistry: Internal Alkynes to 1,2-Diketones using H5IO6, Chem. Eur. J., 2024,
+  <Link className="Pub1link" to="https://doi.org/10.1002/chem.202401027" target="_blank"> (doi.org/10.1002/chem.202401027)</Link></p></li>
+
+    
   <li><p> R. Bhanja, S. K. Bera and P. Mal, Transition-Metal- and Photocatalyst-Free Photoinduced Formation of Carbon-Pnictogen (-N, -P) Bonds, Synthesis, 2024,
   <Link className="Pub1link" to="https://doi.org/10.1055/a-2298-2106" target="_blank"> (doi.org/10.1055/a-2298-2106)</Link></p></li>
     
