@@ -18,7 +18,14 @@ const Publications = () => {
       <small class="text-muted"> In 2024</small>
     </h2>
 
- 
+  <li><p> R. Bhanja, S. K. Bera and P. Mal, Sustainable Synthesis through Catalyst-Free Photoinduced Cascaded Bond Formation, Chem. Asian J., 2024,
+  <Link className="Pub1link" to="https://doi.org/10.1002/asia.202400279" target="_blank"> (doi.org/10.1002/asia.202400279)</Link></p></li>
+
+    
+  <li><p> T. K. Dinda, A. Manna and P. Mal, En Route to Recyclable Semi-Heterogeneous Photocatalysis with Photoinert CeCl3,  ACS Catal., 2024,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acscatal.4c01130" target="_blank"> (doi.org/10.1021/acscatal.4c01130)</Link></p></li>
+
+
   <li><p> P. Nayek and P. Mal, Mimicking Ozonolysis via Mechanochemistry: Internal Alkynes to 1,2-Diketones using H5IO6, Chem. Eur. J., 2024,
   <Link className="Pub1link" to="https://doi.org/10.1002/chem.202401027" target="_blank"> (doi.org/10.1002/chem.202401027)</Link></p></li>
 
