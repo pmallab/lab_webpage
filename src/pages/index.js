@@ -73,6 +73,8 @@ const Index = () => {
       <marquee width="100%" direction="up" scrolldelay="600" >
 
 
+      <p> 09 May 2024: Many congratulations to Rosalin for her latest paper in Chem. Asian J. Best wishes.</p>
+      <p> 02 May 2024: Congratulations to Tarun and Dr Anupam for their latest paper in  ACS Catal.</p>
       <p> 18 Apr 2024: Many congratulations to Pravat for his latest paper in Chem. Eur. J. Best wishes.</p>
       <p> 03 Apr 2024: Heartiest congratulations to Rosalin for her latest paper in Synthesis. Keep it up.</p>
       
