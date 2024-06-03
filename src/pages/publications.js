@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2024</small>
     </h2>
 
+  <li><p> S. Sau, S. Sahoo, A. Manna and P. Mal, Moisture-Resistant Radical Anions of Quinoxalin-2(1H)-ones in Aerial Dioxygen Activation, Org. Biomol. Chem., 2024,
+  <Link className="Pub1link" to="https://doi.org/10.1039/D4OB00673A" target="_blank"> (doi.org/10.1039/D4OB00673A)</Link></p></li>
+    
   <li><p> R. Bhanja, S. K. Bera and P. Mal, Sustainable Synthesis through Catalyst-Free Photoinduced Cascaded Bond Formation, Chem. Asian J., 2024,
   <Link className="Pub1link" to="https://doi.org/10.1002/asia.202400279" target="_blank"> (doi.org/10.1002/asia.202400279)</Link></p></li>
 
