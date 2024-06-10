@@ -130,6 +130,46 @@ const Alumni = () => {
 
     <div class="container">
 <div className="Alumni_data">
+<h3>Ms. Soumyashree Priyadarshinee</h3>
+<p>Completed Int. M.Sc. in 2024</p>
+<p>Thesis title: C-H Functionalization: Sustainable Approaches towards Synthesis of C-X (X = C, N, O, Br) Bonds</p>
+<p>Present Affiliation: </p>
+<p></p>
+</div>
+</div> 
+
+    <div class="container">
+<div className="Alumni_data">
+<h3>Mr. Supratim Chatterjee</h3>
+<p>Completed Int. M.Sc. in 2024</p>
+<p>Thesis title: Synthesis, Study, and Application of Elemental-doped Perovskites</p>
+<p>Present Affiliation: </p>
+<p></p>
+</div>
+</div> 
+
+      <div class="container">
+<div className="Alumni_data">
+<h3>Mr. Ankit Ray</h3>
+<p>Completed Int. M.Sc. in 2024</p>
+<p>Thesis title: Synthesis of Different Cesium-based Lead Halide Perovskites and Their Photophysical Studies</p>
+<p>Present Affiliation: </p>
+<p></p>
+</div>
+</div>
+
+    <div class="container">
+<div className="Alumni_data">
+<h3>Mr. Kushal Baloda</h3>
+<p>Completed Int. M.Sc. in 2024</p>
+<p>Thesis title: Synthesis, Structural Characterization, and Study of Phase Transformations in Halide Perovskites for Advanced Applications</p>
+<p>Present Affiliation: </p>
+<p></p>
+</div>
+</div>
+
+    <div class="container">
+<div className="Alumni_data">
 <h3>Dr. Anupam Manna</h3>
 <p>RA from Nov 2021 - Mar 2024</p>
 <p>Research field: Synthesis of fluorescence materials and their applications.</p>
