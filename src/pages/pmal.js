@@ -76,7 +76,12 @@ const Pmal = () => {
   <small class="text-muted"> </small>
 </h3>
 <ul class="List2">
-  <li>July 2017 – Till Date: Associate Professor, NISER Bhubaneswar, India
+  <li>May 2024 - Till Date: Professor, NISER Bhubaneswar, India
+</li>
+  </ul>
+  
+  <ul class="List2">
+  <li>July 2017 – May 2024: Associate Professor, NISER Bhubaneswar, India
 </li>
   </ul>
 
