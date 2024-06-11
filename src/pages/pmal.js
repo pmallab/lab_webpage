@@ -35,7 +35,7 @@ const Pmal = () => {
       <h2> Dr. Prasenjit Mal
       <small class="text-muted"> (Group Leader)</small>
     </h2>
-    <p>Associate Professor</p>
+    <p>Professor</p>
     <p>School Of Chemical Sciences</p>
     <p>National Institute of Science Education and Research</p>
     <p> Bhubaneswar, Odisha, India </p>
