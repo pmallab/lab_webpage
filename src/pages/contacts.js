@@ -31,7 +31,7 @@ const Contacts = () => {
   <div class="card" >
 <div class="card-body">
   <h3 class="card-title">Address</h3>
-    <p>Room no 203,2nd floor<br></br>
+    <p>Lab no 219, Office no 220, 2nd floor<br></br>
     School of Chemical Sciences<br></br>
     National Institute of Science Education and Research<br></br>
     Bhubaneswar, P.O. Jatni, Khurda 752050<br></br>
