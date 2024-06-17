@@ -32,7 +32,7 @@ const Pmal = () => {
       <div class="container-fluid">
       <div className="Short_details">
       <pre>  </pre>
-      <h2> Dr. Prasenjit Mal
+      <h2> Prof. Prasenjit Mal
       <small class="text-muted"> (Group Leader)</small>
     </h2>
     <p>Professor</p>
