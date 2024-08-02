@@ -147,38 +147,9 @@ const Pmal = () => {
     </dd>
 </dl></li>
         
-          <li>
-<dl class="row">
-<dt class="col-sm-1">2024</dt>
-<dd class="col-sm-9">
-  <dl class="row">
-    <dt class="col-sm-2">January</dt>
-    <dd class="col-sm-8">CH665 Advanced Organic Chemistry</dd>
-    </dl>
-    <dl class="row">
-      <dt class="col-sm-2"></dt>
-      <dd class="col-sm-8"></dd>
-      </dl>
-    </dd>
-</dl></li>
+          
 
-        
-   <li>
-<dl class="row">
-<dt class="col-sm-1">2023</dt>
-<dd class="col-sm-9">
-  <dl class="row">
-    <dt class="col-sm-2">August</dt>
-    <dd class="col-sm-8">C341 Organic Chemistry Lab I</dd>
-    </dl>
-    <dl class="row">
-      <dt class="col-sm-2"></dt>
-      <dd class="col-sm-8"></dd>
-      </dl>
-    </dd>
-</dl></li>
-        
-  <li>
+        <li>
 <dl class="row">
 <dt class="col-sm-1">2023</dt>
 <dd class="col-sm-9">
@@ -187,11 +158,13 @@ const Pmal = () => {
     <dd class="col-sm-8">CH665 Advanced Organic Chemistry</dd>
     </dl>
     <dl class="row">
-      <dt class="col-sm-2"></dt>
-      <dd class="col-sm-8"></dd>
+      <dt class="col-sm-2">August</dt>
+      <dd class="col-sm-8">C341 Organic Chemistry Lab I</dd>
       </dl>
     </dd>
 </dl></li>
+        
+  
   
 <li>
 <dl class="row">
