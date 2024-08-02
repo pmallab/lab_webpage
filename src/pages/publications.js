@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2024</small>
     </h2>
 
+  <li><p> S. Sahoo, T. K. Dinda and P. Mal, N-Halosuccinimide-CeCl3 Transient Charge-Transfer Complexes as Semi Heterogeneous Photocatalyst in Cyclization of N-Propargylamides, Chem. Eur. J., 2024,
+  <Link className="Pub1link" to="https://doi.org/10.1002/chem.202402192" target="_blank"> (doi.org/10.1002/chem.202402192)</Link></p></li>
+    
   <li><p> S. Sau, S. Sahoo, A. Manna and P. Mal, Moisture-Resistant Radical Anions of Quinoxalin-2(1H)-ones in Aerial Dioxygen Activation, Org. Biomol. Chem., 2024,
   <Link className="Pub1link" to="https://doi.org/10.1039/D4OB00673A" target="_blank"> (doi.org/10.1039/D4OB00673A)</Link></p></li>
     
