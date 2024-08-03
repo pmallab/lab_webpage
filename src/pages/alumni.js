@@ -143,7 +143,7 @@ const Alumni = () => {
 <h3>Mr. Supratim Chatterjee</h3>
 <p>Completed Int. M.Sc. in 2024</p>
 <p>Thesis title: Synthesis, Study, and Application of Elemental-doped Perovskites</p>
-<p>Present Affiliation: </p>
+<p>Present Affiliation: PhD at Concordia University, Canada</p>
 <p></p>
 </div>
 </div> 
