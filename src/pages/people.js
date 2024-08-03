@@ -330,7 +330,7 @@ const People = () => {
 <div className= "Phd1_data">
 <h3>Chidananda Biswal
 <small class="text-muted"> (JRF)</small></h3>
-<p>B.Sc-2021 (Govt.( Auto) College, Angul) ,M.Sc.-2023 (Veer Surendra Sai University Of Technology, Od)</p>
+<p>B.Sc-2021 (Govt. (Auto) College, Angul), M.Sc.-2023 (Veer Surendra Sai University of Technology, OD)</p>
 <p> Qualified CSIR-UGC NET 2023</p>
 <p>Joined this group in August-2024</p>
 <p>Homeplace: Angul,Odisha</p>
