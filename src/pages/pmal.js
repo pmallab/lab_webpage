@@ -60,8 +60,8 @@ const Pmal = () => {
 <div class="container-md">
 <div class="container-fluid">
 <div className="Head">
-<h3>Short CV</h3>
-<p>&emsp;&emsp; Prasenjit Mal was born at Lokhesole, Bankura, West Bengal, India. He obtained his MSc degree from Indian Institute of technology Kharagpur and followed by PhD at Indian Institute of technology Kanpur in 2005. Then he undertook postdoctoral studies at University of Siegen in Germany as Alexander von Humboldt Fellow (2006-2007) and at University of Cambridge in UK as Marie Curie Fellow (2008-2009). He started an independent research career at NISER Bhubaneswar since December 2009. His research is focused on supramolecular catalysis in organic chemistry.</p>
+<h3>My Bio</h3>
+<p>&emsp;&emsp; I was born at Lokhesole, Bankura, West Bengal, India. I obtained my MSc degree from Indian Institute of technology Kharagpur, and followed by PhD at Indian Institute of technology Kanpur in 2005. Then, I moved for postdoctoral studies at the University of Siegen in Germany as an Alexander von Humboldt Fellow (2006-2007) and at the University of Cambridge in the UK as a Marie Curie Fellow (2008-2009). I started an independent research career at NISER Bhubaneswar in December 2009. My research is focused on supramolecular catalysis in organic chemistry. Recently, our group is promptly contributing for developing new materials as visible light photoradox catalysts.</p>
 </div>
 </div>
 </div>
