@@ -72,7 +72,7 @@ const Pmal = () => {
     <ul class="list-unstyled">
   <li>
   <h3>
-  Education and Experiences
+  My Education and Experiences
   <small class="text-muted"> </small>
 </h3>
 <ul class="List2">
