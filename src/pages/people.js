@@ -29,7 +29,7 @@ const People = () => {
                       }
                     }
                 }
-              filephd_2: file(relativePath: {eq: "images/members/phd_12.jpg"}) {
+              filephd_2: file(relativePath: {eq: "images/members/phd_2.jpg"}) {
                       childImageSharp {
                         fixed(width: 280) {
                           ...GatsbyImageSharpFixed
