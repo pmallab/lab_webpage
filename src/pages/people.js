@@ -282,7 +282,7 @@ const People = () => {
 <h3>Pravat Nayek
 <small class="text-muted"> (JRF)</small></h3>
 <p>B.Sc-2019 (Midnapore college autonomous) ,M.Sc.-2021 (IIEST, Shibpur)</p>
-<p> Qualified Gate 2021 / CSIR Net 2021 june( UGC fellowship)</p>
+<p> Qualified Gate 2021 / CSIR Net 2021 June (UGC fellowship)</p>
 <p>Joined this group in August-2022</p>
 <p>Homeplace: Moyna, West Bengal</p>
 <p>Research field: Metal-free oxidation</p>
