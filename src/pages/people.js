@@ -257,7 +257,7 @@ const People = () => {
 <div className= "Phd1_data">
 <h3>Buddhadeb Pal
 <small class="text-muted"> (SRF)</small></h3>
-<p>B.Sc-2018 (Vidyasagar University) ,M.Sc.-2020 (Vidyasagar University)</p>
+<p>B.Sc-2018 (Vidyasagar University), M.Sc.-2020 (Vidyasagar University)</p>
 <p> Qualified GATE 2021</p>
 <p>Joined this group in July-2021</p>
 <p>Homeplace: Haldia, West Bengal</p>
@@ -280,8 +280,8 @@ const People = () => {
 <div class="col-sm">
 <div className= "Phd1_data">
 <h3>Pravat Nayek
-<small class="text-muted"> (JRF)</small></h3>
-<p>B.Sc-2019 (Midnapore college autonomous) ,M.Sc.-2021 (IIEST, Shibpur)</p>
+<small class="text-muted"> (SRF)</small></h3>
+<p>B.Sc-2019 (Midnapore college autonomous), M.Sc.-2021 (IIEST, Shibpur)</p>
 <p> Qualified Gate 2021 / CSIR Net 2021 June (UGC fellowship)</p>
 <p>Joined this group in August-2022</p>
 <p>Homeplace: Moyna, West Bengal</p>
@@ -305,8 +305,8 @@ const People = () => {
 <div class="col-sm">
 <div className= "Phd1_data">
 <h3>Sathi Sahoo
-<small class="text-muted"> (JRF)</small></h3>
-<p>B.Sc-2019 (Midnapore college autonomous) ,M.Sc.-2021 (Vidyasagar University, WB)</p>
+<small class="text-muted"> (SRF)</small></h3>
+<p>B.Sc-2019 (Midnapore college autonomous),M.Sc.-2021 (Vidyasagar University, WB)</p>
 <p> Qualified GATE 2021</p>
 <p>Joined this group in August-2022</p>
 <p>Homeplace: Egra, West Bengal</p>
