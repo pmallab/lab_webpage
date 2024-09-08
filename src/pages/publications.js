@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2024</small>
     </h2>
 
+  <li><p> T. K. Dinda, A. Manna, P. Nayek, B. Mandal and P. Mal, Ultrasmall CsPbBr3 Nanocrystals as a Recyclable Heterogeneous Photocatalyst in 100% E- and Anti-Markovnikov Sulfinylsulfonation of Terminal Alkynes, ACS Appl. Mater. Interfaces, 2024,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acsami.4c10579" target="_blank"> (doi.org/10.1021/acsami.4c10579)</Link></p></li>
+    
   <li><p> S. Sahoo, T. K. Dinda and P. Mal, N-Halosuccinimide-CeCl3 Transient Charge-Transfer Complexes as Semi Heterogeneous Photocatalyst in Cyclization of N-Propargylamides, Chem. Eur. J., 2024,
   <Link className="Pub1link" to="https://doi.org/10.1002/chem.202402192" target="_blank"> (doi.org/10.1002/chem.202402192)</Link></p></li>
     
