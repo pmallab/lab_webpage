@@ -72,6 +72,7 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
 
+      <p> 06 Sept 2024: Congratulations to Tarun and Anupam for their latest paper in ACS AMI.</p> 
       <p> 02 Aug 2024: Heartiest congratulations to Sathi for her latest paper in Chem. Eur. J. All the best.</p>
       <p> 01 Aug 2024: Lets welcome new members Chidananda, Lipika, Sikun, Aisha, Bappaditya, Tanmay to the group.</p>
       
