@@ -153,7 +153,7 @@ const Alumni = () => {
 <h3>Mr. Ankit Ray</h3>
 <p>Completed Int. M.Sc. in 2024</p>
 <p>Thesis title: Synthesis of Different Cesium-based Lead Halide Perovskites and Their Photophysical Studies</p>
-<p>Present Affiliation: </p>
+<p>Present Affiliation: PhD at IITB, India</p>
 <p></p>
 </div>
 </div>
