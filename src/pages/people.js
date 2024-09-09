@@ -210,7 +210,7 @@ const People = () => {
 <div className= "Phd1_data">
 <h3>Tarun Kumar Dinda
 <small class="text-muted"> (SRF)</small></h3>
-<p>B.Sc-2015 (Vidyasagar University) ,M.Sc.-2019 (Jadavpur University)</p>
+<p>B.Sc-2015 (Vidyasagar University), M.Sc.-2019 (Jadavpur University)</p>
 <p> Qualified GATE-2019</p>
 <p>Joined this group in Jan-2021</p>
 <p>Homeplace: Haldia, West Bengal</p>
@@ -233,7 +233,7 @@ const People = () => {
 <div className= "Phd1_data">
 <h3>Rosalin Bhanja
 <small class="text-muted"> (SRF)</small></h3>
-<p>B.Sc-2016 (Ravenshaw university), M.Sc.-2020 (Central university of jharkhand)</p>
+<p>B.Sc-2016 (Ravenshaw university), M.Sc.-2020 (Central university of Jharkhand)</p>
 <p> Qualified GATE-2021, NET(CSIR)-2020</p>
 <p>Joined this group in July 2021</p>
 <p>Hometown:  Balasore, Odisha</p>
@@ -306,7 +306,7 @@ const People = () => {
 <div className= "Phd1_data">
 <h3>Sathi Sahoo
 <small class="text-muted"> (SRF)</small></h3>
-<p>B.Sc-2019 (Midnapore college autonomous),M.Sc.-2021 (Vidyasagar University, WB)</p>
+<p>B.Sc-2019 (Midnapore college autonomous), M.Sc.-2021 (Vidyasagar University, WB)</p>
 <p> Qualified GATE 2021</p>
 <p>Joined this group in August-2022</p>
 <p>Homeplace: Egra, West Bengal</p>
