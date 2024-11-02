@@ -73,10 +73,10 @@ const Index = () => {
       <marquee width="100%" direction="up" scrolldelay="600" >
 
       
+      <p> 30 OCt 2024: Heartiest congratulations to Buddha for his latest paper in ChemCatChem.</p> 
       <p> 26 Sept 2024: Prof. Mal has been recognized among the TOP 2% of global scientists. Heartiest congratulations to Prof. Mal.</p>
       <p> 06 Sept 2024: Congratulations to Tarun and Anupam for their latest paper in ACS AMI.</p> 
-      <p> 02 Aug 2024: Heartiest congratulations to Sathi for her latest paper in Chem. Eur. J. All the best.</p>
-      <p> 01 Aug 2024: Lets welcome new members Chidananda, Lipika, Sikun, Aisha, Bappaditya, Tanmay to the group.</p>
+      
       
       
       
