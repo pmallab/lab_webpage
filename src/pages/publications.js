@@ -15,9 +15,16 @@ const Publications = () => {
       <div class ="container-md">
       <ol type="1">
       <h2>
-      <small class="text-muted"> In 2024</small>
+      <small class="text-muted"> In 2025</small>
     </h2>
 
+  <li><p> B. Pal and P. Mal, Thermocontrolled Radical Nucleophilicity vs Radicophilicity in Regiodivergent C–H Functionalization,  Org. Lett., 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.orglett.4c04509" target="_blank"> (doi.org/10.1021/acs.orglett.4c04509)</Link></p></li>
+
+     <h2>
+      <small class="text-muted"> In 2024</small>
+    </h2>
+    
   <li><p> B. Pal, S. Priyadarshinee and P. Mal, Photo(Multicomponent) Reaction of Quinoxalin-2(1H)-ones with CBrCl3 and Styrenes by Mes-Acr-MeClO4,  ChemCatChem, 2024,
   <Link className="Pub1link" to="https://doi.org/10.1002/cctc.202401524" target="_blank"> (doi.org/10.1002/cctc.202401524)</Link></p></li>
     
