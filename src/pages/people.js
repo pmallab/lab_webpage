@@ -36,7 +36,7 @@ const People = () => {
                         }
                     }
                 }
-                filephd_3: file(relativePath: {eq: "images/members/phd_3.jpg"}) {
+                filephd_3: file(relativePath: {eq: "images/members/phd_3.JPG"}) {
                         childImageSharp {
                           fixed(width: 280) {
                             ...GatsbyImageSharpFixed
@@ -347,7 +347,7 @@ const People = () => {
 <div class="container">
 <div class="row">
 <div class="col-sm">
-<Img className="Member_5" fixed={data.filephd_2.childImageSharp.fixed}></Img>
+<Img className="Member_5" fixed={data.filephd_3.childImageSharp.fixed}></Img>
 </div>
 <div class="col-sm">
 <div className= "Phd1_data">
