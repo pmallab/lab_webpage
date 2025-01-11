@@ -384,7 +384,7 @@ const People = () => {
 <h3>Lipika Bardhan
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. PhD (NISER), 5th semester</p>
+<p>Currently continuing Int. PhD (NISER), 6th semester</p>
 <p> Qualified IIT JAM 2022</p>
 <p>Hometown: Balasore, Odisha</p>
 <p>Research field: Photocatalysis</p>
@@ -415,7 +415,7 @@ const People = () => {
 <h3>Sagnik Bhattacharya
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2023</p>
-<p>Currently continuing Int. MSc (NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 10th semester</p>
 <p> Qualified NEST Exam, 2020</p>
 <p>Hometown: Kolkata, West Bengal</p>
 <p>Research field: Lanthanide-based Perovskite Synthesis</p>
@@ -439,7 +439,7 @@ const People = () => {
 <h3>Soham Roy
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2023</p>
-<p>Currently continuing Int. MSc (NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 10th semester</p>
 <p> Qualified NEST Exam, 2020</p>
 <p>Hometown: South Dinajpur, West Bengal</p>
 <p>Research field: Synthesis of Materials and biologically Important Molecules</p>
@@ -463,7 +463,7 @@ const People = () => {
 <h3>Tathagata Mandal 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2023</p>
-<p>Currently continuing Int. MSc (NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 10th semester</p>
 <p> Qualified NEST Exam, 2020</p>
 <p>Hometown: Baruipur, Kolkata</p>
 <p>Research field: Organic synthesis and catalysis</p>
@@ -487,7 +487,7 @@ const People = () => {
 <h3>Tanmay Narendra Deshpande 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p>Currently continuing Int. MSc (NISER), 8th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Nagpur, Maharashtra</p>
 <p>Research field: Organic chemistry</p>
@@ -512,7 +512,7 @@ const People = () => {
 <h3>Bappaditya Debnath 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p>Currently continuing Int. MSc (NISER), 8th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Karimpur, West Bengal</p>
 <p>Research field: Sustainable Organic Synthesis</p>
@@ -535,7 +535,7 @@ const People = () => {
 <h3>Aisha Riyas 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p>Currently continuing Int. MSc (NISER), 8th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Alappuzha, Kerala</p>
 <p>Research field: Organophotocatalysis</p>
