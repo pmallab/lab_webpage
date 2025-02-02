@@ -74,7 +74,7 @@ const Index = () => {
 
 
   
-      <p> 31 Jan 2025: Many congratulations to Pravat for his latest EJOC.</p>
+      <p> 31 Jan 2025: Many congratulations to Pravat for his latest AJOC.</p>
       <p> 09 Jan 2025: Exciting! We started the new year with Org. Lett. Heartiest congratulations to Buddha.</p> 
       <p> 06 Jan 2025: Many congratulations to Ramen, joined the group for his PhD thesis.</p>
       
