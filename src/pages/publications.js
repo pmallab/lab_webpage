@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
 
+  <li><p> P. Nayek, B. Pal, T. Mandal and P. Mal, Taming Cr(VI) Toxicity in Telescoping Quinoxaline Synthesis,  Asian J. Org. Chem., 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1002/ajoc.202500002" target="_blank"> (doi.org/10.1002/ajoc.202500002)</Link></p></li>
+    
   <li><p> B. Pal and P. Mal, Thermocontrolled Radical Nucleophilicity vs Radicophilicity in Regiodivergent C–H Functionalization,  Org. Lett., 2025,
   <Link className="Pub1link" to="https://doi.org/10.1021/acs.orglett.4c04509" target="_blank"> (doi.org/10.1021/acs.orglett.4c04509)</Link></p></li>
 
