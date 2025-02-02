@@ -72,7 +72,9 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
 
-      
+
+  
+      <p> 31 Jan 2025: Many congratulations to Pravat for his latest EJOC.</p>
       <p> 09 Jan 2025: Exciting! We started the new year with Org. Lett. Heartiest congratulations to Buddha.</p> 
       <p> 06 Jan 2025: Many congratulations to Ramen, joined the group for his PhD thesis.</p>
       
