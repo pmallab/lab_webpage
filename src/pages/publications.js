@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
 
+  <li><p> A. Manna, P. Nayek and P. Mal, Tuning Dimensions of CsPbBr3 Nanocrystals through Pb(II) Counter Anions: A Dance of Dimensions and Product Selectivity in Visible-Light Photocatalysis,  ACS Energy Lett. 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acsenergylett.5c00033" target="_blank"> (doi.org/10.1021/acsenergylett.5c00033)</Link></p></li>
+    
   <li><p> P. Nayek, B. Pal, T. Mandal and P. Mal, Taming Cr(VI) Toxicity in Telescoping Quinoxaline Synthesis,  Asian J. Org. Chem., 2025,
   <Link className="Pub1link" to="https://doi.org/10.1002/ajoc.202500002" target="_blank"> (doi.org/10.1002/ajoc.202500002)</Link></p></li>
     
