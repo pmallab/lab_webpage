@@ -73,7 +73,7 @@ const Index = () => {
       <marquee width="100%" direction="up" scrolldelay="600" >
 
 
-  
+      <p> 04 Mar 2025: Heartiest congratulations to Anupam and Pravat for their latest publication in ACS Energy Lett.</p>
       <p> 31 Jan 2025: Many congratulations to Pravat for his latest AJOC.</p>
       <p> 09 Jan 2025: Exciting! We started the new year with Org. Lett. Heartiest congratulations to Buddha.</p> 
       <p> 06 Jan 2025: Many congratulations to Ramen, joined the group for his PhD thesis.</p>
