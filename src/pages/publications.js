@@ -18,6 +18,10 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
 
+
+  <li><p> S. R. Sahoo, T. K. Dinda, S. Saha, P. Mal and N. Goswami, Maneuvering the Electronic State and Active Site of Assembled-Gold Nanoclusters through Polyoxometalate Implantation for Heterogeneous Green-Light Photocatalysis,  ACS Appl. Mater. Interfaces, 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acsami.4c23033" target="_blank"> (doi.org/10.1021/acsami.4c23033)</Link></p></li>
+    
   <li><p> A. Manna, P. Nayek and P. Mal, Tuning Dimensions of CsPbBr3 Nanocrystals through Pb(II) Counter Anions: A Dance of Dimensions and Product Selectivity in Visible-Light Photocatalysis,  ACS Energy Lett. 2025,
   <Link className="Pub1link" to="https://doi.org/10.1021/acsenergylett.5c00033" target="_blank"> (doi.org/10.1021/acsenergylett.5c00033)</Link></p></li>
     
