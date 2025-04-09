@@ -18,7 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
 
-
+  <li><p> T. K. Dinda and P. Mal, A Self-Sustaining Supramolecular (Auto)Photocatalysis via the Synthesis of N-Vinylacetamides,  Chem. Eur. J., 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1002/chem.202404624" target="_blank"> (doi.org/10.1002/chem.202404624)</Link></p></li>
+    
   <li><p> S. R. Sahoo, T. K. Dinda, S. Saha, P. Mal and N. Goswami, Maneuvering the Electronic State and Active Site of Assembled-Gold Nanoclusters through Polyoxometalate Implantation for Heterogeneous Green-Light Photocatalysis,  ACS Appl. Mater. Interfaces, 2025,
   <Link className="Pub1link" to="https://doi.org/10.1021/acsami.4c23033" target="_blank"> (doi.org/10.1021/acsami.4c23033)</Link></p></li>
     
