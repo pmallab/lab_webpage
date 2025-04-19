@@ -17,7 +17,10 @@ const Publications = () => {
       <h2>
       <small class="text-muted"> In 2025</small>
     </h2>
-
+    
+  <li><p> S. Sahoo, T. K. Dinda and P. Mal, Dynamic Self-Assembled Systems of Photoinert NPropargyl Amides Enable Red-Light Supramolecular Photocatalysis,  ACS Sustain.Chem. Eng. 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acssuschemeng.5c00678" target="_blank"> (doi.org/10.1021/acssuschemeng.5c00678)</Link></p></li>
+    
   <li><p> T. K. Dinda and P. Mal, A Self-Sustaining Supramolecular (Auto)Photocatalysis via the Synthesis of N-Vinylacetamides,  Chem. Eur. J., 2025,
   <Link className="Pub1link" to="https://doi.org/10.1002/chem.202404624" target="_blank"> (doi.org/10.1002/chem.202404624)</Link></p></li>
     
