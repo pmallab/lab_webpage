@@ -397,7 +397,28 @@ const People = () => {
 </div>
 <pre></pre>
 
-  
+<div class="container">
+<div class="row">
+<div class="col-sm">
+<Img className="Member_5" fixed={data.filemsc_9.childImageSharp.fixed}></Img>
+</div>
+<div class="col-sm">
+<div className= "Phd1_data">
+<h3>Suman Handal
+<p><small class="text-muted"></small></p></h3>
+<p>Joined this group in August 2025</p>
+<p>Currently continuing Int. PhD (NISER), 5th semester</p>
+<p> Qualified IIT JAM 2023</p>
+<p>Hometown: Ghatal, West Bengal</p>
+<p>Research field: Photocatalysis</p>
+<p><a href="mailto: Suman.Handal@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg>&nbsp;Suman.Handal@niser.ac.in</a>&emsp;</p>
+</div>
+</div>
+</div>
+</div>
+<pre></pre>  
 
 <div className="Liner"></div>
 <pre></pre>
@@ -549,6 +570,53 @@ const People = () => {
 <pre></pre>
 
   
+ <div class="container">
+<div class="row">
+<div class="col-sm">
+<Img className="Member_5" fixed={data.filemsc_6.childImageSharp.fixed}></Img>
+</div>
+<div class="col-sm">
+<div className= "Phd1_data">
+<h3>Sonali Priyadarshini Swain
+<p><small class="text-muted"></small></p></h3>
+<p>Joined this group in August 2025</p>
+<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p> Qualified NEST Exam, 2022</p>
+<p>Hometown: Puri, Odisha</p>
+<p>Research field: Organo-photocatalysis</p>
+<p><a href="mailto: sonali.swain@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg>&nbsp;sonali.swain@niser.ac.in</a>&emsp;</p>
+</div>
+</div>
+</div>
+</div>
+<pre></pre>
+  
+ 
+<div class="container">
+<div class="row">
+<div class="col-sm">
+<Img className="Member_5" fixed={data.filemsc_10.childImageSharp.fixed}></Img>
+</div>
+<div class="col-sm">
+<div className= "Phd1_data">
+<h3>Megha Pradhan
+<p><small class="text-muted"></small></p></h3>
+<p>Joined this group in August 2025</p>
+<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p> Qualified NEST Exam, 2022</p>
+<p>Hometown: Rourkela, Odisha</p>
+<p>Research field: Organometallic chemistry in organic synthesis</p>
+<p><a href="mailto: megha.pradhan@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg>&nbsp;megha.pradhan@niser.ac.in</a>&emsp;</p>
+</div>
+</div>
+</div>
+</div>
+<pre></pre>  
+ 
   </div>
 </Layout>
   )
