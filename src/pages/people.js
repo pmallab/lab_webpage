@@ -200,78 +200,6 @@ const People = () => {
 <h1> PhD Researchers</h1>
 
 
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filephd_6.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Tarun Kumar Dinda
-<small class="text-muted"> (SRF)</small></h3>
-<p>B.Sc-2015 (Vidyasagar University), M.Sc.-2019 (Jadavpur University)</p>
-<p> Qualified GATE-2019</p>
-<p>Joined this group in Jan-2021</p>
-<p>Homeplace: Haldia, West Bengal</p>
-<p>Research field: Photocatalysis</p>
-<p><a href="mailto: tarunkumar.dinda@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;tarunkumar.dinda@niser.ac.in</a></p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-  <Img className="Member_5" fixed={data.filephd_1.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Rosalin Bhanja
-<small class="text-muted"> (SRF)</small></h3>
-<p>B.Sc-2016 (Ravenshaw university), M.Sc.-2020 (Central university of Jharkhand)</p>
-<p> Qualified GATE-2021, NET(CSIR)-2020</p>
-<p>Joined this group in July 2021</p>
-<p>Hometown:  Balasore, Odisha</p>
-<p>Research field: C-C and C-heteroatom bond formation under metal free condition</p>
-<p><a href="mailto: rosalin.bhanja@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;rosalin.bhanja@niser.ac.in</a>&emsp;</p>
-  </div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filephd_7.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Buddhadeb Pal
-<small class="text-muted"> (SRF)</small></h3>
-<p>B.Sc-2018 (Vidyasagar University), M.Sc.-2020 (Vidyasagar University)</p>
-<p> Qualified GATE 2021</p>
-<p>Joined this group in July-2021</p>
-<p>Homeplace: Haldia, West Bengal</p>
-<p>Research field: Visible-light mediated carbon heteroatom bond formation reactions</p>
-<p><a href="mailto: buddhadeb.pal@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;buddhadeb.pal@niser.ac.in</a></p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-
 <div class="container">
 <div class="row">
 <div class="col-sm">
@@ -384,7 +312,7 @@ const People = () => {
 <h3>Lipika Bardhan
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. PhD (NISER), 6th semester</p>
+<p>Currently continuing Int. PhD (NISER), 7th semester</p>
 <p> Qualified IIT JAM 2022</p>
 <p>Hometown: Balasore, Odisha</p>
 <p>Research field: Photocatalysis</p>
@@ -426,79 +354,8 @@ const People = () => {
 <h1> M.Sc. Researchers</h1>
 
 
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_1.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Sagnik Bhattacharya
-<p><small class="text-muted"></small></p></h3>
-<p>Joined this group in August 2023</p>
-<p>Currently continuing Int. MSc (NISER), 10th semester</p>
-<p> Qualified NEST Exam, 2020</p>
-<p>Hometown: Kolkata, West Bengal</p>
-<p>Research field: Lanthanide-based Perovskite Synthesis</p>
-<p><a href="mailto: sagnik.bhattacharya@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;sagnik.bhattacharya@niser.ac.in</a>&emsp;</p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
 
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_4.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Soham Roy
-<p><small class="text-muted"></small></p></h3>
-<p>Joined this group in August 2023</p>
-<p>Currently continuing Int. MSc (NISER), 10th semester</p>
-<p> Qualified NEST Exam, 2020</p>
-<p>Hometown: South Dinajpur, West Bengal</p>
-<p>Research field: Synthesis of Materials and biologically Important Molecules</p>
-<p><a href="mailto: soham.roy@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;soham.roy@niser.ac.in</a>&emsp;</p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-
-<div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_2.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Tathagata Mandal 
-<p><small class="text-muted"></small></p></h3>
-<p>Joined this group in August 2023</p>
-<p>Currently continuing Int. MSc (NISER), 10th semester</p>
-<p> Qualified NEST Exam, 2020</p>
-<p>Hometown: Baruipur, Kolkata</p>
-<p>Research field: Organic synthesis and catalysis</p>
-<p><a href="mailto: tathagata.mandal@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;tathagata.mandal@niser.ac.in</a>&emsp;</p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
-
-
-  <div class="container">
+ <div class="container">
 <div class="row">
 <div class="col-sm">
 <Img className="Member_5" fixed={data.filemsc_3.childImageSharp.fixed}></Img>
@@ -508,7 +365,7 @@ const People = () => {
 <h3>Tanmay Narendra Deshpande 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 8th semester</p>
+<p>Currently continuing Int. MSc (NISER), 9th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Nagpur, Maharashtra</p>
 <p>Research field: Organic chemistry</p>
@@ -533,7 +390,7 @@ const People = () => {
 <h3>Bappaditya Debnath 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 8th semester</p>
+<p>Currently continuing Int. MSc (NISER), 9th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Karimpur, West Bengal</p>
 <p>Research field: Sustainable Organic Synthesis</p>
@@ -556,7 +413,7 @@ const People = () => {
 <h3>Aisha Riyas 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 8th semester</p>
+<p>Currently continuing Int. MSc (NISER), 9th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Alappuzha, Kerala</p>
 <p>Research field: Organophotocatalysis</p>
