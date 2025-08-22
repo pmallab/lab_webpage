@@ -130,6 +130,26 @@ const Alumni = () => {
 
     <div class="container">
 <div className="Alumni_data">
+<h3>Mr. Soham Roy</h3>
+<p>Completed Int. M.Sc. in 2025</p>
+<p>Thesis title: Synthesis and Characterization of Perovskites and Perylene Diimide towards organic transformation</p>
+<p>Present Affiliation: </p>
+<p></p>
+</div>
+</div> 
+
+<div class="container">
+<div className="Alumni_data">
+<h3>Dr. Rosalin Bhanja</h3>
+<p>Completed Ph.D. in 2024</p>
+<p>Thesis title: Metal-free Approaches towards C-N and C-O bond formations.</p>
+<p>Present Affiliation: </p>
+<p></p>
+</div>
+</div>
+    
+    <div class="container">
+<div className="Alumni_data">
 <h3>Ms. Soumyashree Priyadarshinee</h3>
 <p>Completed Int. M.Sc. in 2024</p>
 <p>Thesis title: C-H Functionalization: Sustainable Approaches towards Synthesis of C-X (X = C, N, O, Br) Bonds</p>
