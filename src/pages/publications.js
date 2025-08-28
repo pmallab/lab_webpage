@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
     
+  <li><p> P. Nayek, B. Pal and P. Mal, Perovskite Radiance: CsPbX3 Nanocrystals in Visible-Light (Organic)Photocatalysis,  ACS Catal., 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acscatal.5c05088" target="_blank"> (doi.org/10.1021/acscatal.5c05088)</Link></p></li>
+    
   <li><p> S. Sahoo, T. K. Dinda and P. Mal, Dynamic Self-Assembled Systems of Photoinert NPropargyl Amides Enable Red-Light Supramolecular Photocatalysis,  ACS Sustain.Chem. Eng. 2025,
   <Link className="Pub1link" to="https://doi.org/10.1021/acssuschemeng.5c00678" target="_blank"> (doi.org/10.1021/acssuschemeng.5c00678)</Link></p></li>
     
