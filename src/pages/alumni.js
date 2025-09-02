@@ -302,7 +302,7 @@ const Alumni = () => {
 <h3>Dr. Saikat Maiti</h3>
 <p>Completed Ph.D. in 2017</p>
 <p>Thesis title: Hypervalent Lodine(Iii) Mediated C-N Bond Formation Reactions</p>
-<p>Present Affiliation: Scientist at Merc, Bengaluru</p>
+<p>Present Affiliation: Scientist at Merck, Bengaluru</p>
 <p></p>
 </div>
 </div>
