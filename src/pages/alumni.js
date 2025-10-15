@@ -130,6 +130,26 @@ const Alumni = () => {
 
     <div class="container">
 <div className="Alumni_data">
+<h3>Dr. Buddhadeb Pal</h3>
+<p>Completed Ph.D. in 2025</p>
+<p>Thesis title: Enlightening N-Heterocycles in C-H Functionalization: Thermocontrolled, Heterogeneous, and Homogeneous Photocatalysis </p>
+<p>Present Affiliation: Postdoctoral fellow at University of Texas at Arlington, USA</p>
+<p></p>
+</div>
+</div> 
+    
+    <div class="container">
+<div className="Alumni_data">
+<h3>Dr. Tarun Kumar Dinda</h3>
+<p>Completed Ph.D. in 2025</p>
+<p>Thesis title: Functionalization of Terminal Alkynes via Visible Light Photocatalysis</p>
+<p>Present Affiliation: Postdoctoral fellow at Nagoya Institute of Technology, Japan</p>
+<p></p>
+</div>
+</div>  
+    
+    <div class="container">
+<div className="Alumni_data">
 <h3>Mr. Soham Roy</h3>
 <p>Completed Int. M.Sc. in 2025</p>
 <p>Thesis title: Synthesis and Characterization of Perovskites and Perylene Diimide towards organic transformation</p>
