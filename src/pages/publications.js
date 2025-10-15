@@ -17,6 +17,9 @@ const Publications = () => {
       <h2>
       <small class="text-muted"> In 2025</small>
     </h2>
+
+  <li><p> S. Mahata, T. K. Dinda, S. R. Sahoo, N. Polley, D. Topwal, P. Mal, N. Goswami, Organic Photocatalysis by In Situ Polymerized Gold Nanocluster-Polydopamine Networks,  ACS Appl. Mater. Interfaces, 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1021/acsami.1025c15680" target="_blank"> (doi.org/10.1021/acsami.1025c15680)</Link></p></li>
     
   <li><p> P. Nayek, B. Pal and P. Mal, Perovskite Radiance: CsPbX3 Nanocrystals in Visible-Light (Organic)Photocatalysis,  ACS Catal., 2025,
   <Link className="Pub1link" to="https://doi.org/10.1021/acscatal.5c05088" target="_blank"> (doi.org/10.1021/acscatal.5c05088)</Link></p></li>
