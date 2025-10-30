@@ -72,7 +72,7 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
 
-
+      <p> 28 Oct 2025: Congratulations to Sathi and Tarun for their latest review article in Synlett</p>
       <p> 15 Oct 2025: Heartiest congratulations to Tarun for his latest paper in ACS AMI.</p>
       <p> 22 Aug 2025: Many congratulations to Pravat and Buddhadeb for their latest review article in ACS Catal.</p>
       <p> 19 Apr 2025: Many congratulations to Sathi and Tarun for the latest paper in ACS Sustain. Chem. Eng.</p>
