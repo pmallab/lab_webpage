@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
 
+  <li><p> S. Sahoo, T. K. Dinda and P. Mal, Organic Transformations Mediated by Weak Non-Covalent Interactions. Synlett 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1055/a-2733-1765" target="_blank"> (doi.org/10.1055/a-2733-1765)</Link></p></li>
+    
   <li><p> S. Mahata, T. K. Dinda, S. R. Sahoo, N. Polley, D. Topwal, P. Mal, N. Goswami, Organic Photocatalysis by In Situ Polymerized Gold Nanocluster-Polydopamine Networks,  ACS Appl. Mater. Interfaces, 2025,
   <Link className="Pub1link" to="https://doi.org/10.1021/acsami.5c15680" target="_blank"> (doi.org/10.1021/acsami.5c15680)</Link></p></li>
     
