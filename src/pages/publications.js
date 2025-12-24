@@ -18,6 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
 
+  <li><p> P. Nayek, C. Biswal, S. Maity and P. Mal, Organic Halogenation of Alkynes with Inorganic Halides Using Perylenediimide as Visible-Light Photocatalyst,  Adv. Synth. Catal., 2025,
+  <Link className="Pub1link" to="https://doi.org/10.1002/adsc.70245" target="_blank"> (doi.org/10.1002/adsc.70245)</Link></p></li>
+    
   <li><p> S. Sahoo, T. K. Dinda and P. Mal, Organic Transformations Mediated by Weak Non-Covalent Interactions. Synlett 2025,
   <Link className="Pub1link" to="https://doi.org/10.1055/a-2733-1765" target="_blank"> (doi.org/10.1055/a-2733-1765)</Link></p></li>
     
