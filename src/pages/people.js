@@ -180,15 +180,15 @@ const People = () => {
             </div>
             <div class="col-sm">
             <div className= "Phd1_data">
-              <h3>Dr. Manoranjan Ojha
+              <h3>Dr. Suchismita Rath
               <small class="text-muted"> (RA)</small></h3>
               <p></p>
-              <p>PhD-2022 (IIT Hyderabad)</p>
-              <p>Homeplace: Digha, West Bengal</p>
-                <p> Research field: Electrochemistry</p>
-              <p><a href="mailto: manoranjanojha21@gmail.com"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+              <p>PhD-2024 (SNIoE)</p>
+              <p>Homeplace: Bolgarh, Khordha, Odisha</p>
+                <p> Research field: Photochemistry</p>
+              <p><a href="mailto: rathsuchismita52@gmail.com"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
             <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-          </svg>&nbsp;manoranjanojha21@gmail.com</a>&emsp;</p>
+          </svg>&nbsp;rathsuchismita52@gmail.com</a>&emsp;</p>
               </div>
             </div>
           </div>
@@ -295,35 +295,34 @@ const People = () => {
 </div>
 <pre></pre>
 
-  
+<div class="container">
+<div class="row">
+<div class="col-sm">
+<Img className="Member_5" fixed={data.filephd_4.childImageSharp.fixed}></Img>
+</div>
+<div class="col-sm">
+<div className= "Phd1_data">
+<h3>Lipika Bardhan
+<small class="text-muted"> (JRF)</small></h3>
+<p>B.Sc-2021 (KKS Women's College, WB), M.Sc.-2022 (NISER Bhubaneswar, Odisha)</p>
+<p> Qualified CSIR-UGC NET 2024</p>
+<p>Joined this group in August 2024</p>
+<p>Homeplace: Balasore, Odisha</p>
+<p>Research field: Photocatalysis & Mechanochemistry</p>
+<p><a href="mailto: lipika.bardhan@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg>&nbsp;lipika.bardhan@niser.ac.in</a></p>
+</div>
+</div>
+</div>
+</div>
+<pre></pre> 
+
 <div className="Liner"></div>
 <pre></pre>
 
 <h1> Int. PhD Researcher</h1>
 
-
-  <div class="container">
-<div class="row">
-<div class="col-sm">
-<Img className="Member_5" fixed={data.filemsc_8.childImageSharp.fixed}></Img>
-</div>
-<div class="col-sm">
-<div className= "Phd1_data">
-<h3>Lipika Bardhan
-<p><small class="text-muted"></small></p></h3>
-<p>Joined this group in August 2024</p>
-<p>Currently continuing Int. PhD (NISER), 7th semester</p>
-<p> Qualified IIT JAM 2022</p>
-<p>Hometown: Balasore, Odisha</p>
-<p>Research field: Photocatalysis</p>
-<p><a href="mailto: lipika.bardhan@niser.ac.in"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-<path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-</svg>&nbsp;lipika.bardhan@niser.ac.in</a>&emsp;</p>
-</div>
-</div>
-</div>
-</div>
-<pre></pre>
 
 <div class="container">
 <div class="row">
@@ -335,7 +334,7 @@ const People = () => {
 <h3>Suman Handal
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2025</p>
-<p>Currently continuing Int. PhD (NISER), 5th semester</p>
+<p>Currently continuing Int. PhD (NISER), 6th semester</p>
 <p> Qualified IIT JAM 2023</p>
 <p>Hometown: Ghatal, West Bengal</p>
 <p>Research field: Photocatalysis</p>
@@ -365,7 +364,7 @@ const People = () => {
 <h3>Tanmay Narendra Deshpande 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 10th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Nagpur, Maharashtra</p>
 <p>Research field: Organic chemistry</p>
@@ -390,7 +389,7 @@ const People = () => {
 <h3>Bappaditya Debnath 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 10th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Karimpur, West Bengal</p>
 <p>Research field: Sustainable Organic Synthesis</p>
@@ -413,7 +412,7 @@ const People = () => {
 <h3>Aisha Riyas 
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2024</p>
-<p>Currently continuing Int. MSc (NISER), 9th semester</p>
+<p>Currently continuing Int. MSc (NISER), 10th semester</p>
 <p> Qualified NEST Exam, 2021</p>
 <p>Hometown: Alappuzha, Kerala</p>
 <p>Research field: Organophotocatalysis</p>
@@ -437,7 +436,7 @@ const People = () => {
 <h3>Sonali Priyadarshini Swain
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2025</p>
-<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p>Currently continuing Int. MSc (NISER), 8th semester</p>
 <p> Qualified NEST Exam, 2022</p>
 <p>Hometown: Puri, Odisha</p>
 <p>Research field: Organo-photocatalysis</p>
@@ -461,7 +460,7 @@ const People = () => {
 <h3>Megha Pradhan
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2025</p>
-<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p>Currently continuing Int. MSc (NISER), 8th semester</p>
 <p> Qualified NEST Exam, 2022</p>
 <p>Hometown: Rourkela, Odisha</p>
 <p>Research field: Organometallic chemistry in organic synthesis</p>
@@ -485,7 +484,7 @@ const People = () => {
 <h3>Ashish Mishra
 <p><small class="text-muted"></small></p></h3>
 <p>Joined this group in August 2025</p>
-<p>Currently continuing Int. MSc (NISER), 7th semester</p>
+<p>Currently continuing Int. MSc (NISER), 8th semester</p>
 <p> Qualified NEST Exam, 2022</p>
 <p>Hometown: Dhenkanal, Odisha</p>
 <p>Research field: Organocatalysis</p>
