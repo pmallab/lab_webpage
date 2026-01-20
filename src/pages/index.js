@@ -72,15 +72,14 @@ const Index = () => {
       <h3> News</h3>
       <marquee width="100%" direction="up" scrolldelay="600" >
 
-      
+
+      <p> 08 Jan 2026: Congratulations to Pravat, Ramen, Tanmay, Bappaditya and Dr. Rosalin Bhanja for their latest paper in Eur. J. Org. Chem. </p>
       <p> 23 Dec 2025: Many congratulations to Pravat, Chidananda and Dr. Sandeepan Maity for their latest paper in Adv. Synth. Catal. </p>
       <p> 28 Oct 2025: Congratulations to Sathi and Tarun for their latest review article in Synlett</p>
       <p> 15 Oct 2025: Heartiest congratulations to Tarun for his latest paper in ACS AMI.</p>
       <p> 22 Aug 2025: Many congratulations to Pravat and Buddhadeb for their latest review article in ACS Catal.</p>
       <p> 19 Apr 2025: Many congratulations to Sathi and Tarun for the latest paper in ACS Sustain. Chem. Eng.</p>
-      <p> 08 Apr 2025: Heartiest congratulations to Tarun for his latest paper in Chem. Eur. J.</p>
-      <p> 25 Mar 2025: Many congratulations to Tarun for his latest paper in ACS AMI.</p>
-      <p> 04 Mar 2025: Heartiest congratulations to Anupam and Pravat for their latest publication in ACS Energy Lett.</p>
+      
       
       
       
