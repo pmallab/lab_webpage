@@ -73,6 +73,7 @@ const Index = () => {
       <marquee width="100%" direction="up" scrolldelay="600" >
 
 
+      <p> 29 Jan 2026: Heartiest congratulations to Pravat and Lipika for their latest paper in small </p>
       <p> 08 Jan 2026: Congratulations to Pravat, Ramen, Tanmay, Bappaditya and Dr. Rosalin Bhanja for their latest paper in Eur. J. Org. Chem. </p>
       <p> 23 Dec 2025: Many congratulations to Pravat, Chidananda and Dr. Sandeepan Maity for their latest paper in Adv. Synth. Catal. </p>
       <p> 28 Oct 2025: Congratulations to Sathi and Tarun for their latest review article in Synlett</p>
