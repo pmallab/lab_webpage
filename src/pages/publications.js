@@ -15,10 +15,12 @@ const Publications = () => {
       <div class ="container-md">
       <ol type="1">
       <h2>
-      <small class="text-muted"> In 2025</small>
+      <small class="text-muted"> In 2026</small>
     </h2>
 
 
+  
+    
   <li><p> T. K. Dinda, S. Sahoo, M. Ojha, P. Mal, Persistent Halogenated Perylenediimide Organic Radical Anions Orchestrating Three-Photon Energy Conversion and Programmable Molecular Coupling,  Chem. Eur. J., 2026,
   <Link className="Pub1link" to="https://doi.org/10.1002/chem.71131" target="_blank"> (doi.org/10.1002/chem.71131)</Link></p></li>
     
@@ -36,6 +38,11 @@ const Publications = () => {
     
   <li><p> P. Nayek, R. Guchait, T. N. Deshpande, B. Debnath, R. Bhanja, and P. Mal, Solvent Controlled NBS-Driven Divergent Bromo-Lactonization of Ortho-Styryl Benzamides,  Eur. J. Org. Chem., 2026,
   <Link className="Pub1link" to="https://doi.org/10.1002/ejoc.202501176" target="_blank"> (doi.org/10.1002/ejoc.202501176)</Link></p></li>
+    
+  
+ <h2>
+      <small class="text-muted"> In 2025</small>
+    </h2>   
     
   <li><p> P. Nayek, C. Biswal, S. Maity and P. Mal, Organic Halogenation of Alkynes with Inorganic Halides Using Perylenediimide as Visible-Light Photocatalyst,  Adv. Synth. Catal., 2025,
   <Link className="Pub1link" to="https://doi.org/10.1002/adsc.70245" target="_blank"> (doi.org/10.1002/adsc.70245)</Link></p></li>
