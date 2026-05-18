@@ -19,6 +19,9 @@ const Publications = () => {
     </h2>
 
 
+  <li><p> T. K. Dinda, S. Sahoo, M. Ojha, P. Mal, Persistent Halogenated Perylenediimide Organic Radical Anions Orchestrating Three-Photon Energy Conversion and Programmable Molecular Coupling,  Chem. Eur. J., 2026,
+  <Link className="Pub1link" to="https://doi.org/10.1002/chem.71131" target="_blank"> (doi.org/10.1002/chem.71131)</Link></p></li>
+    
   <li><p> C. Biswal, P. Nayek, S. Maity, P. Mal, Mechanistically Orthogonal Radical Strategies Converging on Programmable Site-Selective Halogenation of Quinoxalinones,  Chem. Commun. 2026,
   <Link className="Pub1link" to="https://doi.org/10.1039/D6CC01927G" target="_blank"> (doi.org/10.1039/D6CC01927G)</Link></p></li>  
   
