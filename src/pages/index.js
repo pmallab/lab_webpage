@@ -73,13 +73,16 @@ const Index = () => {
       <marquee width="100%" direction="up" scrolldelay="600" >
 
 
+      
+      <p> 18 May 2026: Congratulations to Tarun, Sathi and Dr. Manoranjan Ojha for their latest article in Chem. Eur. J.</p>
+      <p> 18 May 2026: Heartiest Congratulations to Chidananda, Pravat and Dr. Sandeepan Maity for their latest paper in Chem. commun.</p>
+      <p> 08 May 2026: Congratulations to Suman Handal for their latest article in Small</p>
+      <p> 01 May 2026: Congratulations to Sathi and Tarun for their latest review article in ChemPlusChem </p>
       <p> 29 Jan 2026: Heartiest congratulations to Pravat and Lipika for their latest paper in small </p>
       <p> 08 Jan 2026: Congratulations to Pravat, Ramen, Tanmay, Bappaditya and Dr. Rosalin Bhanja for their latest paper in Eur. J. Org. Chem. </p>
       <p> 23 Dec 2025: Many congratulations to Pravat, Chidananda and Dr. Sandeepan Maity for their latest paper in Adv. Synth. Catal. </p>
       <p> 28 Oct 2025: Congratulations to Sathi and Tarun for their latest review article in Synlett</p>
-      <p> 15 Oct 2025: Heartiest congratulations to Tarun for his latest paper in ACS AMI.</p>
-      <p> 22 Aug 2025: Many congratulations to Pravat and Buddhadeb for their latest review article in ACS Catal.</p>
-      <p> 19 Apr 2025: Many congratulations to Sathi and Tarun for the latest paper in ACS Sustain. Chem. Eng.</p>
+      
       
       
       
