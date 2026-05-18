@@ -19,6 +19,10 @@ const Publications = () => {
     </h2>
 
   
+  
+  <li><p> S. R. Sahoo, S. Handal, S. Saha, D. Topwal, P. Mal, N. Goswami, Synergistic Regulation of Excited-State Electrons Enables Sunlight-Driven C─Br Bond Activation Through In SituPolymerized Polyoxometalate-Gold Nanocluster Assemblies,  Small, 2026,
+  <Link className="Pub1link" to="https://doi.org/10.1002/smll.73713" target="_blank"> (doi.org/10.1002/smll.73713)</Link></p></li>  
+    
   <li><p> S. Sahoo, T. K. Dinda and P. Mal, Small-Molecule Photocatalytic Activation Through Noncovalent Interactions. ChemPlusChem 2026,
   <Link className="Pub1link" to="https://doi.org/10.1002/cplu.202500601" target="_blank"> (doi.org/10.1002/cplu.202500601)</Link></p></li>  
     
