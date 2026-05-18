@@ -18,6 +18,10 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
 
+  
+  <li><p> S. Sahoo, T. K. Dinda and P. Mal, Small-Molecule Photocatalytic Activation Through Noncovalent Interactions. ChemPlusChem 2026,
+  <Link className="Pub1link" to="https://doi.org/10.1002/cplu.202500601" target="_blank"> (doi.org/10.1002/cplu.202500601)</Link></p></li>  
+    
   <li><p> P. Nayek, L. Bardhan, and P. Mal, Paradox in Visible-Light: O2•‒ Generation by CsPbBr3 Perovskite Nanocrystals.  Small 2026,
   <Link className="Pub1link" to="https://doi.org/10.1002/smll.202511891" target="_blank"> (doi.org/10.1002/smll.202511891)</Link></p></li>
     
