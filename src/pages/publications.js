@@ -18,7 +18,9 @@ const Publications = () => {
       <small class="text-muted"> In 2025</small>
     </h2>
 
-  
+
+  <li><p> C. Biswal, P. Nayek, S. Maity, P. Mal, Mechanistically Orthogonal Radical Strategies Converging on Programmable Site-Selective Halogenation of Quinoxalinones,  Chem. Commun. 2026,
+  <Link className="Pub1link" to="https://doi.org/10.1039/D6CC01927G" target="_blank"> (doi.org/10.1039/D6CC01927G)</Link></p></li>  
   
   <li><p> S. R. Sahoo, S. Handal, S. Saha, D. Topwal, P. Mal, N. Goswami, Synergistic Regulation of Excited-State Electrons Enables Sunlight-Driven C─Br Bond Activation Through In SituPolymerized Polyoxometalate-Gold Nanocluster Assemblies,  Small, 2026,
   <Link className="Pub1link" to="https://doi.org/10.1002/smll.73713" target="_blank"> (doi.org/10.1002/smll.73713)</Link></p></li>  
