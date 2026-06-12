@@ -170,28 +170,53 @@ const People = () => {
     <Layout>
     <div className="people">
 
+        <h1>ANRF Project Researcher</h1>
+
+          <div class="container">
+          <div class="row">
+          <div class="col-sm">
+          <Img className="Member_5" fixed={data.filepostdoc_2.childImageSharp.fixed}></Img>
+          </div>
+          <div class="col-sm">
+          <div className= "Phd1_data">
+          <h3>Dr. Sandeepan Maity
+          <small class="text-muted"> (ANRF)</small></h3>
+          <p></p>
+          <p>Assoc. Professor (C. V. Raman Global University)</p>
+          <p>Homeplace: Sagar Krishnanagar, Sagar, South 24 Parganas, West Bengal</p>
+          <p> Research field: Photochemistry and SmI2 Catalysis</p>
+          <p><a href="mailto: maitysandeepan2017@gmail.com"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+          <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+          </svg>&nbsp;maitysandeepan2017@gmail.com</a>&emsp;</p>
+          </div>
+          </div>
+          </div>
+          </div>
+
+          <div className="Liner"></div>
+          <pre></pre>
 
         <h1>Post-Doc Researcher</h1>
 
         <div class="container">
-          <div class="row">
-            <div class="col-sm">
-              <Img className="Member_5" fixed={data.filepostdoc_1.childImageSharp.fixed}></Img>
-            </div>
-            <div class="col-sm">
-            <div className= "Phd1_data">
-              <h3>Dr. Suchismita Rath
-              <small class="text-muted"> (RA)</small></h3>
-              <p></p>
-              <p>PhD-2024 (SNIoE)</p>
-              <p>Homeplace: Bolgarh, Khordha, Odisha</p>
-                <p> Research field: Photochemistry</p>
-              <p><a href="mailto: rathsuchismita52@gmail.com"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
-            <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
-          </svg>&nbsp;rathsuchismita52@gmail.com</a>&emsp;</p>
-              </div>
-            </div>
-          </div>
+        <div class="row">
+        <div class="col-sm">
+        <Img className="Member_5" fixed={data.filepostdoc_1.childImageSharp.fixed}></Img>
+        </div>
+        <div class="col-sm">
+        <div className= "Phd1_data">
+        <h3>Dr. Suchismita Rath
+        <small class="text-muted"> (RA)</small></h3>
+        <p></p>
+        <p>PhD-2024 (SNIoE)</p>
+        <p>Homeplace: Bolgarh, Khordha, Odisha</p>
+        <p> Research field: Photochemistry</p>
+        <p><a href="mailto: rathsuchismita52@gmail.com"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+        <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+        </svg>&nbsp;rathsuchismita52@gmail.com</a>&emsp;</p>
+        </div>
+        </div>
+        </div>
         </div>
 
         <div className="Liner"></div>
