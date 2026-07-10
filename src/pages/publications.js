@@ -19,7 +19,8 @@ const Publications = () => {
     </h2>
 
 
-  
+  <li><p> L. Bardhan, S. Handal, P. Nayek, T. K. Dinda, P. Mal, A Green(Light) Organophotocatalyst in Alkyne Functionalization,  ChemPhotoChem , 2026,
+  <Link className="Pub1link" to="https://doi.org/10.1002/cptc.70214" target="_blank"> (doi.org/10.1002/cptc.70214)</Link></p></li>
     
   <li><p> T. K. Dinda, S. Sahoo, M. Ojha, P. Mal, Persistent Halogenated Perylenediimide Organic Radical Anions Orchestrating Three-Photon Energy Conversion and Programmable Molecular Coupling,  Chem. Eur. J., 2026,
   <Link className="Pub1link" to="https://doi.org/10.1002/chem.71131" target="_blank"> (doi.org/10.1002/chem.71131)</Link></p></li>
