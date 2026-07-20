@@ -360,6 +360,28 @@ const Alumni = () => {
 </div>
 </div>
 
+    <div class="container">
+
+<div className="Alumni_data">
+<h3>Bappaditya Debnath</h3>
+<p>Completed M.Sc. in 2026</p>
+<p>Thesis title: Visible light-driven photocatalytic Halogenation and Divergent Synthetic Modifications of C-C π Bonds </p>
+<p>Present Affiliation: Ph.D in Mississippi State University </p>
+<p></p>
+</div>
+</div>
+
+  <div class="container">
+
+<div className="Alumni_data">
+<h3>Aisha Riyas</h3>
+<p>Completed M.Sc. in 2026</p>
+<p>Thesis title: Visible light-mediated Photoredox Catalysis for C-H Functionalization </p>
+<p>Present Affiliation:  </p>
+<p></p>
+</div>
+</div> 
+
     
   </div>
 </Layout>
