@@ -349,7 +349,18 @@ const Alumni = () => {
 </div>
 </div>
   
+ <div class="container">
 
+<div className="Alumni_data">
+<h3>Tanmay Narendra Deshpande</h3>
+<p>Completed M.Sc. in 2026</p>
+<p>Thesis title: Visible light-mediated Chlorinative Cyclization of N-phenylpropiolamide</p>
+<p>Present Affiliation:  </p>
+<p></p>
+</div>
+</div>
+
+    
   </div>
 </Layout>
   )
