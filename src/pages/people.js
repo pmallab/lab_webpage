@@ -405,7 +405,7 @@ const People = () => {
  
 
   
- <div class="container">
+<div class="container">
 <div class="row">
 <div class="col-sm">
 <Img className="Member_5" fixed={data.filemsc_6.childImageSharp.fixed}></Img>
