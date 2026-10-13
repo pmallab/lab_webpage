@@ -74,7 +74,9 @@ const Index = () => {
 
 
 
-  
+
+      <p> 13 Oct 2026: Congratulations to Pravat,Chidananda and Suman K. Bishal, for their latest article in J. Org. Chem. </p>
+      <p> 05 Oct 2026: Congratulations to Sathi for your latest article in Chem. Commun </p>
       <p> 09 July 2026: Congratulations to Lipika, Suman, Pravat and Tarun for their latest article in ChemPhotoChem </p>
       <p> 18 May 2026: Congratulations to Tarun, Sathi and Dr. Manoranjan Ojha for their latest article in Chem. Eur. J.</p>
       <p> 18 May 2026: Heartiest Congratulations to Chidananda, Pravat and Dr. Sandeepan Maity for their latest paper in Chem. commun.</p>
