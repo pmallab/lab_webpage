@@ -19,6 +19,9 @@ const Publications = () => {
     </h2>
 
 
+  <li><p> S. Sahoo, P. Mal, Persistent open-shell acridinyl radical enables long-wavelength photoreduction,  Chem. Commun. , 2026,
+  <Link className="Pub1link" to="https://doi.org/10.1039/d6cc05275d" target="_blank"> (doi.org/10.1039/d6cc05275d)</Link></p></li>
+
   <li><p> L. Bardhan, S. Handal, P. Nayek, T. K. Dinda, P. Mal, A Green(Light) Organophotocatalyst in Alkyne Functionalization,  ChemPhotoChem , 2026,
   <Link className="Pub1link" to="https://doi.org/10.1002/cptc.70214" target="_blank"> (doi.org/10.1002/cptc.70214)</Link></p></li>
     
