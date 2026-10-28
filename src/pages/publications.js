@@ -20,7 +20,7 @@ const Publications = () => {
 
 
   <li><p> P. Nayek,C. Biswal, S. K. Bishal, S. Bhattacharya, P. Mal, Photochemical Radical Cascade Annulation of 6-Azauracils Enabled by CsPbBr3 Perovskite Nanocrystals, J. Org. Chem. , 2026,
-  <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.1026c01630" target="_blank"> (https://doi.org/10.1021/acs.joc.6c01630)</Link></p></li>
+  <Link className="Pub1link" to="https://doi.org/10.1021/acs.joc.1026c01630" target="_blank"> (doi.org/10.1021/acs.joc.6c01630)</Link></p></li>
 
   <li><p> S. Sahoo, P. Mal, Persistent open-shell acridinyl radical enables long-wavelength photoreduction,  Chem. Commun. , 2026,
   <Link className="Pub1link" to="https://doi.org/10.1039/d6cc05275d" target="_blank"> (doi.org/10.1039/d6cc05275d)</Link></p></li>
